@@ -1,0 +1,857 @@
+[
+  {
+    "raw_label": "Gross Margin",
+    "canonical": "gross_margin",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 29,
+    "companies": "ApexFreight, CarbonTrack, ClearPay, ConstructIQ, FleetLink, LendBridge, MediSight, NovaCloud, PeopleFlow, Portfolio, TalentVault",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Total Headcount",
+    "canonical": "headcount",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 25,
+    "companies": "ApexFreight, CarbonTrack, ClearPay, ConstructIQ, FleetLink, LendBridge, MediSight, NovaCloud, PeopleFlow, TalentVault",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Recognized Revenue",
+    "canonical": "revenue",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 12,
+    "companies": "CarbonTrack, LendBridge, MediSight, Portfolio",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Monthly Net Burn",
+    "canonical": "net_burn",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 9,
+    "companies": "CarbonTrack, NovaCloud, TalentVault",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Cash Balance",
+    "canonical": "cash_balance",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 9,
+    "companies": "CarbonTrack, NovaCloud, TalentVault",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Net Revenue Retention (LTM)",
+    "canonical": "nrr",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 7,
+    "companies": "CarbonTrack, ConstructIQ, Portfolio, TalentVault",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Logo Churn (LTM)",
+    "canonical": "logo_churn",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 7,
+    "companies": "CarbonTrack, ConstructIQ, NovaCloud, Portfolio",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Contracted ARR",
+    "canonical": "arr",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 5,
+    "companies": "CarbonTrack, Portfolio, TalentVault",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Interest Expense",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 5,
+    "companies": "LendBridge",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Net Interest Margin",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 5,
+    "companies": "LendBridge",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Total Loan Book (gross)",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 5,
+    "companies": "LendBridge",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Active Borrowers",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 5,
+    "companies": "LendBridge",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "End-of-Period ARR",
+    "canonical": "arr",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 4,
+    "companies": "NovaCloud",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Net Dollar Retention (LTM)",
+    "canonical": "nrr",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 4,
+    "companies": "NovaCloud, PeopleFlow",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Quarterly Revenue",
+    "canonical": "revenue",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 4,
+    "companies": "PeopleFlow, Portfolio",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Completed Shipments",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 3,
+    "companies": "ApexFreight, FleetLink",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Active Shippers",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 3,
+    "companies": "ApexFreight, FleetLink",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Active Carriers",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 3,
+    "companies": "ApexFreight, FleetLink",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Average Take Rate",
+    "canonical": "take_rate",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 3,
+    "companies": "ApexFreight, FleetLink",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Total Recognized Revenue",
+    "canonical": "revenue",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 3,
+    "companies": "ApexFreight, ClearPay",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Marketing Spend as % of Revenue",
+    "canonical": "revenue",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 3,
+    "companies": "ApexFreight, FleetLink",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Support Tickets / 1,000 Shipments",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 3,
+    "companies": "ApexFreight, FleetLink",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Annual Recurring Revenue",
+    "canonical": "arr",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 3,
+    "companies": "ConstructIQ, Portfolio",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Fee & Ancillary Income",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 3,
+    "companies": "LendBridge",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Net Charge-off Rate (LTM)",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 3,
+    "companies": "LendBridge",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "ARR Growth (YoY)",
+    "canonical": "arr",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 3,
+    "companies": "MediSight",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Recognized Revenue (USD)",
+    "canonical": "revenue",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 3,
+    "companies": "NovaCloud",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Logo Churn Rate (LTM)",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 3,
+    "companies": "NovaCloud",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Subscription ARR (end of period)",
+    "canonical": "arr",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 3,
+    "companies": "PeopleFlow",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Annual Logo Churn",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 3,
+    "companies": "PeopleFlow",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Avg. Seats per Customer",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 3,
+    "companies": "PeopleFlow",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Gross Revenue Retention (LTM)",
+    "canonical": "grr",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 3,
+    "companies": "Portfolio, TalentVault",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "On-Time Delivery Rate",
+    "canonical": "on_time_delivery_rate",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 2,
+    "companies": "ApexFreight, FleetLink",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Paying Entities (platform)",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 2,
+    "companies": "CarbonTrack",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Total Payment Volume (TPV)",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 2,
+    "companies": "ClearPay",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Net Revenue (take-rate based)",
+    "canonical": "revenue",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 2,
+    "companies": "ClearPay",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Platform Access Revenue",
+    "canonical": "revenue",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 2,
+    "companies": "ClearPay",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Implementation Services Revenue",
+    "canonical": "revenue",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 2,
+    "companies": "ClearPay",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Cash & Restricted Cash",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 2,
+    "companies": "ClearPay",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Active Connected Platforms",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 2,
+    "companies": "ClearPay",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Transactions Processed (QTD)",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 2,
+    "companies": "ClearPay",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Avg. Transaction Size",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 2,
+    "companies": "ClearPay",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Payment Failure Rate",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 2,
+    "companies": "ClearPay",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Reconciliation Accuracy Rate",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 2,
+    "companies": "ClearPay",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Quarterly Recognized Revenue",
+    "canonical": "revenue",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 2,
+    "companies": "ConstructIQ",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Total Paying Accounts",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 2,
+    "companies": "ConstructIQ",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Avg. Modules per Account",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 2,
+    "companies": "ConstructIQ",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Cash & Equivalents",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 2,
+    "companies": "ConstructIQ",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Quarterly Net Burn",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 2,
+    "companies": "ConstructIQ",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Contribution Margin / Shipment",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 2,
+    "companies": "FleetLink",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Credit Loss Rate (LTM)",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 2,
+    "companies": "LendBridge",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Fee & Other Income",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 2,
+    "companies": "LendBridge",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Pre-Provision Operating Margin",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 2,
+    "companies": "LendBridge",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "ARR from Existing Accounts",
+    "canonical": "arr",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 2,
+    "companies": "MediSight",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Contracted ARR (end of period)",
+    "canonical": "arr",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 2,
+    "companies": "MediSight",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Net Dollar Retention",
+    "canonical": "nrr",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 2,
+    "companies": "NovaCloud, Portfolio",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Paying Customer Logos",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 2,
+    "companies": "PeopleFlow",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Headcount",
+    "canonical": "headcount",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 2,
+    "companies": "Portfolio",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Quarterly Revenue (recognized)",
+    "canonical": "revenue",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 2,
+    "companies": "TalentVault",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Enterprise Accounts (>$100k ARR)",
+    "canonical": "arr",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 2,
+    "companies": "TalentVault",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Total Paying Seats",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 2,
+    "companies": "TalentVault",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Recognized Revenue (transaction)",
+    "canonical": "revenue",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 1,
+    "companies": "ApexFreight",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "SaaS Tool Fee Revenue",
+    "canonical": "revenue",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 1,
+    "companies": "ApexFreight",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Emission Records Processed (QTD)",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 1,
+    "companies": "CarbonTrack",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Connected Data Source Integrations",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 1,
+    "companies": "CarbonTrack",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Scope 3 Value Chain Entities Tracked",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 1,
+    "companies": "CarbonTrack",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Avg. Reporting Frameworks per Client",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 1,
+    "companies": "CarbonTrack",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Automated Audit Trail Coverage",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 1,
+    "companies": "CarbonTrack",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "API Data Ingestion Uptime",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 1,
+    "companies": "CarbonTrack",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Monthly Active Projects (avg.)",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 1,
+    "companies": "ConstructIQ",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Daily Active Users / Licensed Seats",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 1,
+    "companies": "ConstructIQ",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Documents Processed (QTD)",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 1,
+    "companies": "ConstructIQ",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Safety Inspection Completions (QTD)",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 1,
+    "companies": "ConstructIQ",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Subcontractor Portal Connections",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 1,
+    "companies": "ConstructIQ",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Gross Transaction Revenue",
+    "canonical": "revenue",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 1,
+    "companies": "FleetLink",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Platform Revenue (recognized)",
+    "canonical": "revenue",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 1,
+    "companies": "FleetLink",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Adjusted Operating Margin",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 1,
+    "companies": "LendBridge",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Contracted Annual Recurring Revenue",
+    "canonical": "revenue",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 1,
+    "companies": "MediSight",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Expansion ARR as % of Total ARR",
+    "canonical": "arr",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 1,
+    "companies": "MediSight",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "NRR (LTM)",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 1,
+    "companies": "NovaCloud",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Total Billings (USD)",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 1,
+    "companies": "NovaCloud",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "ARR (End of Period)",
+    "canonical": "arr",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 1,
+    "companies": "NovaCloud",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Net Revenue (USD)",
+    "canonical": "revenue",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 1,
+    "companies": "NovaCloud",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Net Pound Retention \u2013 NPR (LTM)",
+    "canonical": "nrr",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 1,
+    "companies": "PeopleFlow",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Active Subscriptions",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 1,
+    "companies": "PeopleFlow",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Cash",
+    "canonical": "cash_balance",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 1,
+    "companies": "Portfolio",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "FTE",
+    "canonical": "headcount",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 1,
+    "companies": "Portfolio",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "YoY Revenue Growth",
+    "canonical": "revenue",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 1,
+    "companies": "Portfolio",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Enterprise Logos (>$100k ARR)",
+    "canonical": "arr",
+    "method": "keyword",
+    "match_confidence": "medium",
+    "count": 1,
+    "companies": "Portfolio",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Monthly Cash Burn",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 1,
+    "companies": "Portfolio",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "ARR",
+    "canonical": "arr",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 1,
+    "companies": "Portfolio",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Revenue",
+    "canonical": "revenue",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 1,
+    "companies": "Portfolio",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Net Revenue Retention",
+    "canonical": "nrr",
+    "method": "alias",
+    "match_confidence": "high",
+    "count": 1,
+    "companies": "Portfolio",
+    "status": "accepted"
+  },
+  {
+    "raw_label": "Paying Entities",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 1,
+    "companies": "Portfolio",
+    "status": "REVIEW"
+  },
+  {
+    "raw_label": "Net Burn (monthly)",
+    "canonical": null,
+    "method": "unmapped",
+    "match_confidence": "none",
+    "count": 1,
+    "companies": "Portfolio",
+    "status": "REVIEW"
+  }
+]
