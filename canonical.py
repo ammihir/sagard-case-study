@@ -28,7 +28,7 @@ CANONICAL_METRICS = {
     },
     "revenue": {
         "display": "Revenue",
-        "unit": "USD",
+        "unit": "currency",
         "aliases": [
             "revenue", "quarterly revenue", "quarterly revenue recognized",
             "total recognized revenue", "total revenue","recognized revenue",
@@ -56,12 +56,12 @@ CANONICAL_METRICS = {
     },
     "cash_balance": {
         "display": "Cash Balance",
-        "unit": "USD",
+        "unit": "currency",
         "aliases": ["cash balance", "cash", "cash on hand"],
     },
     "net_burn": {
         "display": "Net Burn",
-        "unit": "USD",
+        "unit": "currency",
         "aliases": ["net burn", "monthly net burn", "cash burn"],
     },
     "take_rate": {

@@ -3,5 +3,4 @@ sagard_venv/
 __pycache__/
 extract2.ipynb
 output/bronze
-output/silver
-output/label_metric_map.json
+output/silver/silver_excluded.csv
