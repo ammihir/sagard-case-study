@@ -1,131 +1,142 @@
 record_id,company,period,metric,value,unit,currency,currency_method,extraction_confidence,source_snippet,source_file,ingested_at,metric_canonical,match_method,match_confidence
-fdcdf9a497c0305b,ApexFreight,2025-Q2,On-Time Delivery Rate,0.961,pct,USD,symbol,high,On-Time Delivery Rate 96.1%,ApexFreight_Q2_2025.pdf,2026-08-18T12:32:23.309907+00:00,on_time_delivery_rate,alias,high
-c920fabfeaa21c98,ApexFreight,2025-Q2,Average Take Rate,0.112,pct,USD,symbol,high,Average Take Rate 11.2%,ApexFreight_Q2_2025.pdf,2026-08-18T12:32:23.309907+00:00,take_rate,alias,high
-c590eeecd07fe012,ApexFreight,2025-Q2,Total Recognized Revenue,9300000.0,currency,USD,symbol,high,Total Recognized Revenue 9.3M,ApexFreight_Q2_2025.pdf,2026-08-18T12:32:23.309907+00:00,revenue,alias,high
-ca7fa5a5ada4b0a8,ApexFreight,2025-Q2,Gross Margin,0.54,pct,USD,symbol,high,Gross Margin 54%,ApexFreight_Q2_2025.pdf,2026-08-18T12:32:23.309907+00:00,gross_margin,alias,high
-432431df203c0676,ApexFreight,2025-Q2,Total Headcount,204.0,count,USD,symbol,high,Total Headcount 204,ApexFreight_Q2_2025.pdf,2026-08-18T12:32:23.309907+00:00,headcount,alias,high
-e7917393ab3b0b5d,CarbonTrack,2025-Q1,Cash Balance,14800000.0,currency,USD,symbol,high,Cash Balance $13.8M $14.8M,CarbonTrack_Q2_2025.pdf,2026-08-18T12:32:23.364728+00:00,cash_balance,alias,high
-07a4d435dd24ef3e,CarbonTrack,2025-Q2,Cash Balance,13800000.0,currency,USD,symbol,high,Cash Balance $13.8M $14.8M,CarbonTrack_Q2_2025.pdf,2026-08-18T12:32:23.364728+00:00,cash_balance,alias,high
-6d535fd5e18a51cf,CarbonTrack,2025-Q1,Monthly Net Burn,-610000.0,currency,USD,symbol,high,Monthly Net Burn ($0.55M) ($0.61M),CarbonTrack_Q2_2025.pdf,2026-08-18T12:32:23.364728+00:00,net_burn,alias,high
-5775e1826e600eb4,CarbonTrack,2025-Q2,Monthly Net Burn,-550000.0,currency,USD,symbol,high,Monthly Net Burn ($0.55M) ($0.61M),CarbonTrack_Q2_2025.pdf,2026-08-18T12:32:23.364728+00:00,net_burn,alias,high
-121821a152dfe662,CarbonTrack,2025-Q1,Total Headcount,72.0,count,USD,symbol,high,Total Headcount 78 72,CarbonTrack_Q2_2025.pdf,2026-08-18T12:32:23.364728+00:00,headcount,alias,high
-87349175c5530184,CarbonTrack,2025-Q1,Logo Churn (LTM),0.041,pct,USD,symbol,high,Logo Churn (LTM) 3.8% 4.1%,CarbonTrack_Q2_2025.pdf,2026-08-18T12:32:23.364728+00:00,logo_churn,alias,high
-530e255d8182df26,CarbonTrack,2025-Q2,Logo Churn (LTM),0.038,pct,USD,symbol,high,Logo Churn (LTM) 3.8% 4.1%,CarbonTrack_Q2_2025.pdf,2026-08-18T12:32:23.364728+00:00,logo_churn,alias,high
-5f2bdbb26149f546,CarbonTrack,2025-Q2,Total Headcount,78.0,count,USD,symbol,high,Total Headcount 78 72,CarbonTrack_Q2_2025.pdf,2026-08-18T12:32:23.364728+00:00,headcount,alias,high
-b961c28d1f733e98,CarbonTrack,2025-Q2,Net Revenue Retention (LTM),1.21,pct,USD,symbol,high,Net Revenue Retention (LTM) 121% 118%,CarbonTrack_Q2_2025.pdf,2026-08-18T12:32:23.364728+00:00,nrr,alias,high
-10f24bd190bed1e1,CarbonTrack,2025-Q1,Gross Margin,0.72,pct,USD,symbol,high,Gross Margin 73% 72%,CarbonTrack_Q2_2025.pdf,2026-08-18T12:32:23.364728+00:00,gross_margin,alias,high
-e9e3962b7d01fb78,CarbonTrack,2025-Q2,Gross Margin,0.73,pct,USD,symbol,high,Gross Margin 73% 72%,CarbonTrack_Q2_2025.pdf,2026-08-18T12:32:23.364728+00:00,gross_margin,alias,high
-250c7a00234ead7c,CarbonTrack,2025-Q1,Recognized Revenue,3800000.0,currency,USD,symbol,high,Recognized Revenue $4.1M $3.8M,CarbonTrack_Q2_2025.pdf,2026-08-18T12:32:23.364728+00:00,revenue,alias,high
-701a3c1dd2ccc8dd,CarbonTrack,2025-Q2,Recognized Revenue,4100000.0,currency,USD,symbol,high,Recognized Revenue $4.1M $3.8M,CarbonTrack_Q2_2025.pdf,2026-08-18T12:32:23.364728+00:00,revenue,alias,high
-f56f954d13b41fad,CarbonTrack,2025-Q1,Contracted ARR,15200000.0,currency,USD,symbol,high,Contracted ARR $16.9M $15.2M,CarbonTrack_Q2_2025.pdf,2026-08-18T12:32:23.364728+00:00,arr,alias,high
-3daf8a9eb5ef36ae,CarbonTrack,2025-Q2,Contracted ARR,16900000.0,currency,USD,symbol,high,Contracted ARR $16.9M $15.2M,CarbonTrack_Q2_2025.pdf,2026-08-18T12:32:23.364728+00:00,arr,alias,high
-64340163b8e543f4,CarbonTrack,2025-Q1,Net Revenue Retention (LTM),1.18,pct,USD,symbol,high,Net Revenue Retention (LTM) 121% 118%,CarbonTrack_Q2_2025.pdf,2026-08-18T12:32:23.364728+00:00,nrr,alias,high
-37a8f99f06e2c03d,ClearPay,2025-Q1,Total Headcount,203.0,count,USD,symbol,high,Total Headcount 211 203,ClearPay_Q2_2025.pdf,2026-08-18T12:32:23.465127+00:00,headcount,alias,high
-23478379188dfcbd,ClearPay,2025-Q2,Total Headcount,211.0,count,USD,symbol,high,Total Headcount 211 203,ClearPay_Q2_2025.pdf,2026-08-18T12:32:23.465127+00:00,headcount,alias,high
-a4bfe1540ba9c701,ClearPay,2025-Q1,Gross Margin,0.66,pct,USD,symbol,high,Gross Margin 67% 66%,ClearPay_Q2_2025.pdf,2026-08-18T12:32:23.465127+00:00,gross_margin,alias,high
-0a6e6848ca5d011c,ClearPay,2025-Q2,Total Recognized Revenue,17300000.0,currency,USD,symbol,high,Total Recognized Revenue $17.3M $16.1M,ClearPay_Q2_2025.pdf,2026-08-18T12:32:23.465127+00:00,revenue,alias,high
-bd6041f28d32ab2d,ClearPay,2025-Q1,Total Recognized Revenue,16100000.0,currency,USD,symbol,high,Total Recognized Revenue $17.3M $16.1M,ClearPay_Q2_2025.pdf,2026-08-18T12:32:23.465127+00:00,revenue,alias,high
-85932461efb096c9,ClearPay,2025-Q2,Gross Margin,0.67,pct,USD,symbol,high,Gross Margin 67% 66%,ClearPay_Q2_2025.pdf,2026-08-18T12:32:23.465127+00:00,gross_margin,alias,high
-aeffcfbbd2277f87,ConstructIQ,2025-Q1,Logo Churn (LTM),0.068,pct,USD,symbol,high,Logo Churn (LTM) 6.3% 6.8%,ConstructIQ_Q2_2025.pdf,2026-08-18T12:32:23.527622+00:00,logo_churn,alias,high
-8e1f5e68662f3f36,ConstructIQ,2025-Q1,Total Headcount,84.0,count,USD,symbol,high,Total Headcount 89 84,ConstructIQ_Q2_2025.pdf,2026-08-18T12:32:23.527622+00:00,headcount,alias,high
-6ea2aa2a608339ea,ConstructIQ,2025-Q2,Total Headcount,89.0,count,USD,symbol,high,Total Headcount 89 84,ConstructIQ_Q2_2025.pdf,2026-08-18T12:32:23.527622+00:00,headcount,alias,high
-68c826462fb1c2bb,ConstructIQ,2025-Q1,Net Revenue Retention (LTM),1.1,pct,USD,symbol,high,Net Revenue Retention (LTM) 112% 110%,ConstructIQ_Q2_2025.pdf,2026-08-18T12:32:23.527622+00:00,nrr,alias,high
-9a36038c6b023805,ConstructIQ,2025-Q2,Logo Churn (LTM),0.063,pct,USD,symbol,high,Logo Churn (LTM) 6.3% 6.8%,ConstructIQ_Q2_2025.pdf,2026-08-18T12:32:23.527622+00:00,logo_churn,alias,high
-c29f1a9e2fd1ff2a,ConstructIQ,2025-Q1,Gross Margin,0.7,pct,USD,symbol,high,Gross Margin 71% 70%,ConstructIQ_Q2_2025.pdf,2026-08-18T12:32:23.527622+00:00,gross_margin,alias,high
-303a0cffec0ca8ab,ConstructIQ,2025-Q2,Annual Recurring Revenue,18600000.0,currency,USD,symbol,high,Annual Recurring Revenue $18.6M $17.1M,ConstructIQ_Q2_2025.pdf,2026-08-18T12:32:23.527622+00:00,arr,alias,high
-96ed9f7f3393fcb7,ConstructIQ,2025-Q1,Annual Recurring Revenue,17100000.0,currency,USD,symbol,high,Annual Recurring Revenue $18.6M $17.1M,ConstructIQ_Q2_2025.pdf,2026-08-18T12:32:23.527622+00:00,arr,alias,high
-00100812e6681512,ConstructIQ,2025-Q2,Net Revenue Retention (LTM),1.12,pct,USD,symbol,high,Net Revenue Retention (LTM) 112% 110%,ConstructIQ_Q2_2025.pdf,2026-08-18T12:32:23.527622+00:00,nrr,alias,high
-58cc751dbbf03e35,ConstructIQ,2025-Q2,Gross Margin,0.71,pct,USD,symbol,high,Gross Margin 71% 70%,ConstructIQ_Q2_2025.pdf,2026-08-18T12:32:23.527622+00:00,gross_margin,alias,high
-74eaf3b7aff4a19b,FleetLink,2025-Q1,Average Take Rate,0.11,pct,USD,symbol,high,Average Take Rate 11.0%,FleetLink_Q1_2025.pdf,2026-08-18T12:32:23.593951+00:00,take_rate,alias,high
-c27b0a86a87f47e6,FleetLink,2025-Q1,Gross Margin,0.52,pct,USD,symbol,high,Gross Margin 52%,FleetLink_Q1_2025.pdf,2026-08-18T12:32:23.593951+00:00,gross_margin,alias,high
-77bada6d0e3006ad,FleetLink,2024-Q4,On-Time Delivery Rate,0.946,pct,USD,symbol,high,On-Time Delivery Rate 94.6%,FleetLink_Q4_2024.pdf,2026-08-18T12:32:23.656014+00:00,on_time_delivery_rate,alias,high
-b7b67751aeca3290,FleetLink,2024-Q4,Gross Margin,0.51,pct,USD,symbol,high,Gross Margin 51%,FleetLink_Q4_2024.pdf,2026-08-18T12:32:23.656014+00:00,gross_margin,alias,high
-ef63555e78c7042b,FleetLink,2024-Q4,Total Headcount,196.0,count,USD,symbol,high,Total Headcount 196,FleetLink_Q4_2024.pdf,2026-08-18T12:32:23.656014+00:00,headcount,alias,high
-80f89d5c1a5440d0,FleetLink,2024-Q4,Average Take Rate,0.108,pct,USD,symbol,high,Average Take Rate 10.8%,FleetLink_Q4_2024.pdf,2026-08-18T12:32:23.656014+00:00,take_rate,alias,high
-7459a792b1dad88a,LendBridge,2025-Q1,Recognized Revenue,12100000.0,currency,USD,symbol,high,Recognized Revenue $12.1M,LendBridge_Q1_2025.pdf,2026-08-18T12:32:23.697160+00:00,revenue,alias,high
-6ac0ead60102524e,LendBridge,2025-Q1,Gross Margin,0.61,pct,USD,symbol,high,Gross Margin 61%,LendBridge_Q1_2025.pdf,2026-08-18T12:32:23.697160+00:00,gross_margin,alias,high
-eb79c07e3e18e10b,LendBridge,2025-Q1,Total Headcount,182.0,count,USD,symbol,high,Total Headcount 182,LendBridge_Q1_2025.pdf,2026-08-18T12:32:23.697160+00:00,headcount,alias,high
-695f03e4d16c8933,LendBridge,2024-Q2,Total Headcount,162.0,count,USD,symbol,high,Total Headcount 162,LendBridge_Q2_2024.pdf,2026-08-18T12:32:23.743827+00:00,headcount,alias,high
-333bfef8b06a8ee8,LendBridge,2024-Q2,Recognized Revenue,10100000.0,currency,USD,symbol,high,Recognized Revenue $10.1M,LendBridge_Q2_2024.pdf,2026-08-18T12:32:23.743827+00:00,revenue,alias,high
-8dd7423134af36da,LendBridge,2024-Q2,Gross Margin,0.58,pct,USD,symbol,high,Gross Margin 58%,LendBridge_Q2_2024.pdf,2026-08-18T12:32:23.743827+00:00,gross_margin,alias,high
-c6337808232a6c7f,LendBridge,2025-Q2,Total Headcount,188.0,count,USD,symbol,high,Total Headcount 188,LendBridge_Q2_2025.pdf,2026-08-18T12:32:23.835771+00:00,headcount,alias,high
-56f42ddcb48a476a,LendBridge,2025-Q2,Recognized Revenue,12700000.0,currency,USD,symbol,high,Recognized Revenue $12.7M,LendBridge_Q2_2025.pdf,2026-08-18T12:32:23.835771+00:00,revenue,alias,high
-cecefd3889c3531f,LendBridge,2025-Q2,Gross Margin,0.62,pct,USD,symbol,high,Gross Margin 62%,LendBridge_Q2_2025.pdf,2026-08-18T12:32:23.835771+00:00,gross_margin,alias,high
-6bfb45073c5aaa1a,LendBridge,2024-Q3,Recognized Revenue,10800000.0,currency,USD,symbol,high,Recognized Revenue $10.8M,LendBridge_Q3_2024.pdf,2026-08-18T12:32:23.895589+00:00,revenue,alias,high
-1e4113e848a215d1,LendBridge,2024-Q3,Gross Margin,0.59,pct,USD,symbol,high,Gross Margin 59%,LendBridge_Q3_2024.pdf,2026-08-18T12:32:23.895589+00:00,gross_margin,alias,high
-1f541e0b65ebe5b8,LendBridge,2024-Q3,Total Headcount,169.0,count,USD,symbol,high,Total Headcount 169,LendBridge_Q3_2024.pdf,2026-08-18T12:32:23.895589+00:00,headcount,alias,high
-83cef9efe47b72dd,LendBridge,2024-Q4,Recognized Revenue,11400000.0,currency,USD,symbol,high,Recognized Revenue $11.4M,LendBridge_Q4_2024.pdf,2026-08-18T12:32:23.926586+00:00,revenue,alias,high
-8a3ad59e3945c2af,LendBridge,2024-Q4,Gross Margin,0.6,pct,USD,symbol,high,Gross Margin 60%,LendBridge_Q4_2024.pdf,2026-08-18T12:32:23.926586+00:00,gross_margin,alias,high
-110c7d8dcf54d789,LendBridge,2024-Q4,Total Headcount,175.0,count,USD,symbol,high,Total Headcount 175,LendBridge_Q4_2024.pdf,2026-08-18T12:32:23.926586+00:00,headcount,alias,high
-5e0569c9dffb3864,MediSight,2025-Q1,Gross Margin,0.76,pct,,unknown,high,Gross Margin 76%,MediSight_Q1_2025.pdf,2026-08-18T12:32:23.993214+00:00,gross_margin,alias,high
-8bf3a5b67b7b3312,MediSight,2025-Q1,Recognized Revenue,6300000.0,currency,,unknown,high,Recognized Revenue 6.3M,MediSight_Q1_2025.pdf,2026-08-18T12:32:23.993214+00:00,revenue,alias,high
-69471a4827014bd0,MediSight,2025-Q2,Recognized Revenue,6800000.0,currency,,unknown,high,Recognized Revenue 6.8M,MediSight_Q2_2025.pdf,2026-08-18T12:32:24.031376+00:00,revenue,alias,high
-21fa2c5ad0179931,MediSight,2025-Q2,Gross Margin,0.77,pct,,unknown,high,Gross Margin 77%,MediSight_Q2_2025.pdf,2026-08-18T12:32:24.031376+00:00,gross_margin,alias,high
-5975bbd9e142002d,MediSight,2025-Q2,Total Headcount,121.0,count,,unknown,high,Total Headcount 121,MediSight_Q2_2025.pdf,2026-08-18T12:32:24.031376+00:00,headcount,alias,high
-abc0defb92390bee,MediSight,2024-Q4,Recognized Revenue,6100000.0,currency,,unknown,high,Recognized Revenue 6.1M,MediSight_Q4_2024.pdf,2026-08-18T12:32:24.081351+00:00,revenue,alias,high
-541c99162ac119e1,MediSight,2024-Q4,Gross Margin,0.75,pct,,unknown,high,Gross Margin 75%,MediSight_Q4_2024.pdf,2026-08-18T12:32:24.081351+00:00,gross_margin,alias,high
-e229c106218de7e2,MediSight,2024-Q4,Total Headcount,108.0,count,,unknown,high,Total Headcount 108,MediSight_Q4_2024.pdf,2026-08-18T12:32:24.081351+00:00,headcount,alias,high
-0929bfd76c15cc4b,NovaCloud,2025-Q1,Total Headcount,135.0,count,USD,symbol,high,Total Headcount 135,NovaCloud_Q1_2025.pdf,2026-08-18T12:32:24.127814+00:00,headcount,alias,high
-c2fa88334244611d,NovaCloud,2025-Q1,Cash Balance,21300000.0,currency,USD,symbol,high,Cash Balance $21.3M,NovaCloud_Q1_2025.pdf,2026-08-18T12:32:24.127814+00:00,cash_balance,alias,high
-554c4376063e9a65,NovaCloud,2025-Q1,Monthly Net Burn,-820000.0,currency,USD,symbol,high,Monthly Net Burn ($0.82M),NovaCloud_Q1_2025.pdf,2026-08-18T12:32:24.127814+00:00,net_burn,alias,high
-990425b4e4cad91d,NovaCloud,2025-Q1,Gross Margin,0.77,pct,USD,symbol,high,Gross Margin 77%,NovaCloud_Q1_2025.pdf,2026-08-18T12:32:24.127814+00:00,gross_margin,alias,high
-8245cb4dc8d8bd30,NovaCloud,2025-Q1,End-of-Period ARR,31600000.0,currency,USD,symbol,high,End-of-Period ARR $31.6M,NovaCloud_Q1_2025.pdf,2026-08-18T12:32:24.127814+00:00,arr,alias,high
-ae006abe82bebf92,NovaCloud,2025-Q1,Logo Churn (LTM),0.061,pct,USD,symbol,high,Logo Churn (LTM) 6.1%,NovaCloud_Q1_2025.pdf,2026-08-18T12:32:24.127814+00:00,logo_churn,alias,high
-a88708852328c194,NovaCloud,2024-Q2,End-of-Period ARR,24100000.0,currency,USD,symbol,high,End-of-Period ARR $24.1M,NovaCloud_Q2_2024.pdf,2026-08-18T12:32:24.213235+00:00,arr,alias,high
-cea3fd970cd02333,NovaCloud,2024-Q2,Gross Margin,0.74,pct,USD,symbol,high,Gross Margin 74%,NovaCloud_Q2_2024.pdf,2026-08-18T12:32:24.213235+00:00,gross_margin,alias,high
-d9f781f200e18a2f,NovaCloud,2024-Q2,Net Dollar Retention (LTM),1.15,pct,USD,symbol,high,Net Dollar Retention (LTM) 115%,NovaCloud_Q2_2024.pdf,2026-08-18T12:32:24.213235+00:00,nrr,alias,high
-49c122135831c56d,NovaCloud,2024-Q2,Cash Balance,29500000.0,currency,USD,symbol,high,Cash Balance $29.5M,NovaCloud_Q2_2024.pdf,2026-08-18T12:32:24.213235+00:00,cash_balance,alias,high
-d4b4bb0d136f089a,NovaCloud,2024-Q2,Monthly Net Burn,-980000.0,currency,USD,symbol,high,Monthly Net Burn ($0.98M),NovaCloud_Q2_2024.pdf,2026-08-18T12:32:24.213235+00:00,net_burn,alias,high
-80ce5cd6d94f4919,NovaCloud,2024-Q2,Total Headcount,112.0,count,USD,symbol,high,Total Headcount 112,NovaCloud_Q2_2024.pdf,2026-08-18T12:32:24.213235+00:00,headcount,alias,high
-da6da29ca36961e3,NovaCloud,2025-Q2,Gross Margin,0.78,pct,USD,symbol,high,Gross Margin 78%,NovaCloud_Q2_2025.pdf,2026-08-18T12:32:24.276904+00:00,gross_margin,alias,high
-0b293bbe4429ef6b,NovaCloud,2025-Q2,Logo Churn (LTM),0.058,pct,USD,symbol,high,Logo Churn (LTM) 5.8%,NovaCloud_Q2_2025.pdf,2026-08-18T12:32:24.276904+00:00,logo_churn,alias,high
-80ba54812e06f566,NovaCloud,2025-Q2,Cash Balance,19600000.0,currency,USD,symbol,high,Cash Balance $19.6M,NovaCloud_Q2_2025.pdf,2026-08-18T12:32:24.276904+00:00,cash_balance,alias,high
-717b655a64973298,NovaCloud,2025-Q2,Monthly Net Burn,-750000.0,currency,USD,symbol,high,Monthly Net Burn ($0.75M),NovaCloud_Q2_2025.pdf,2026-08-18T12:32:24.276904+00:00,net_burn,alias,high
-6f4dd1ebc71daaac,NovaCloud,2025-Q2,Total Headcount,142.0,count,USD,symbol,high,Total Headcount 142,NovaCloud_Q2_2025.pdf,2026-08-18T12:32:24.276904+00:00,headcount,alias,high
-ca6734bb1a7ed494,NovaCloud,2024-Q3,Cash Balance,26600000.0,currency,USD,symbol,high,Cash Balance $26.6M,NovaCloud_Q3_2024.pdf,2026-08-18T12:32:24.311785+00:00,cash_balance,alias,high
-43e066a1e8c06bd0,NovaCloud,2024-Q3,Monthly Net Burn,-950000.0,currency,USD,symbol,high,Monthly Net Burn ($0.95M),NovaCloud_Q3_2024.pdf,2026-08-18T12:32:24.311785+00:00,net_burn,alias,high
-b953e3466adc4078,NovaCloud,2024-Q3,Total Headcount,120.0,count,USD,symbol,high,Total Headcount 120,NovaCloud_Q3_2024.pdf,2026-08-18T12:32:24.311785+00:00,headcount,alias,high
-1a38850dfe5187f0,NovaCloud,2024-Q3,Net Dollar Retention (LTM),1.17,pct,USD,symbol,high,Net Dollar Retention (LTM) 117%,NovaCloud_Q3_2024.pdf,2026-08-18T12:32:24.311785+00:00,nrr,alias,high
-a9d4f87f1f5e0c69,NovaCloud,2024-Q3,End-of-Period ARR,26800000.0,currency,USD,symbol,high,End-of-Period ARR $26.8M,NovaCloud_Q3_2024.pdf,2026-08-18T12:32:24.311785+00:00,arr,alias,high
-01ff87c315c68533,NovaCloud,2024-Q3,Gross Margin,0.75,pct,USD,symbol,high,Gross Margin 75%,NovaCloud_Q3_2024.pdf,2026-08-18T12:32:24.311785+00:00,gross_margin,alias,high
-104e8bbb7b47856e,NovaCloud,2024-Q4,End-of-Period ARR,29100000.0,currency,USD,symbol,high,End-of-Period ARR $29.1M,NovaCloud_Q4_2024.pdf,2026-08-18T12:32:24.366374+00:00,arr,alias,high
-79da749c855ab028,NovaCloud,2024-Q4,Cash Balance,24000000.0,currency,USD,symbol,high,Cash Balance $24.0M,NovaCloud_Q4_2024.pdf,2026-08-18T12:32:24.366374+00:00,cash_balance,alias,high
-5bfd981e5c9c04f9,NovaCloud,2024-Q4,Monthly Net Burn,-880000.0,currency,USD,symbol,high,Monthly Net Burn ($0.88M),NovaCloud_Q4_2024.pdf,2026-08-18T12:32:24.366374+00:00,net_burn,alias,high
-73d4b7656c7e4d69,NovaCloud,2024-Q4,Total Headcount,128.0,count,USD,symbol,high,Total Headcount 128,NovaCloud_Q4_2024.pdf,2026-08-18T12:32:24.366374+00:00,headcount,alias,high
-fe590ac53db40374,PeopleFlow,2025-Q1,Quarterly Revenue,4700000.0,currency,GBP,declared,high,Quarterly Revenue 4.7M,PeopleFlow_Q1_2025.pdf,2026-08-18T12:32:24.409853+00:00,revenue,alias,high
-9dc9872983aca02d,PeopleFlow,2025-Q1,Subscription ARR (end of period),19800000.0,currency,GBP,declared,high,Subscription ARR (end of period) 19.8M,PeopleFlow_Q1_2025.pdf,2026-08-18T12:32:24.409853+00:00,arr,alias,high
-37de7e488a763691,PeopleFlow,2025-Q1,Gross Margin,0.74,pct,GBP,declared,high,Gross Margin 74%,PeopleFlow_Q1_2025.pdf,2026-08-18T12:32:24.409853+00:00,gross_margin,alias,high
-e38102c77bc7e86a,PeopleFlow,2025-Q1,Total Headcount,92.0,count,GBP,declared,high,Total Headcount 92,PeopleFlow_Q1_2025.pdf,2026-08-18T12:32:24.409853+00:00,headcount,alias,high
-5e6dad706a33aeeb,PeopleFlow,2025-Q2,Quarterly Revenue,5100000.0,currency,GBP,declared,high,Quarterly Revenue 5.1M,PeopleFlow_Q2_2025.pdf,2026-08-18T12:32:24.443375+00:00,revenue,alias,high
-cc024d0ac7f3b318,PeopleFlow,2025-Q2,Subscription ARR (end of period),21400000.0,currency,GBP,declared,high,Subscription ARR (end of period) 21.4M,PeopleFlow_Q2_2025.pdf,2026-08-18T12:32:24.443375+00:00,arr,alias,high
-1fe5f3711b126a11,PeopleFlow,2025-Q2,Net Dollar Retention (LTM),1.18,pct,GBP,declared,high,Net Dollar Retention (LTM) 118%,PeopleFlow_Q2_2025.pdf,2026-08-18T12:32:24.443375+00:00,nrr,alias,high
-cfe22b93bddf9f17,PeopleFlow,2025-Q2,Total Headcount,96.0,count,GBP,declared,high,Total Headcount 96,PeopleFlow_Q2_2025.pdf,2026-08-18T12:32:24.443375+00:00,headcount,alias,high
-dfc6ba52f4321456,PeopleFlow,2024-Q4,Total Headcount,88.0,count,GBP,declared,high,Total Headcount 88,PeopleFlow_Q4_2024.pdf,2026-08-18T12:32:24.597671+00:00,headcount,alias,high
-96d45a62cfa355af,PeopleFlow,2024-Q4,Gross Margin,0.74,pct,GBP,declared,high,Gross Margin 74%,PeopleFlow_Q4_2024.pdf,2026-08-18T12:32:24.597671+00:00,gross_margin,alias,high
-da7926d261b594e3,PeopleFlow,2024-Q4,Net Dollar Retention (LTM),1.16,pct,GBP,declared,high,Net Dollar Retention (LTM) 116%,PeopleFlow_Q4_2024.pdf,2026-08-18T12:32:24.597671+00:00,nrr,alias,high
-d1e35bdad714395b,PeopleFlow,2024-Q4,Quarterly Revenue,4400000.0,currency,GBP,declared,high,Quarterly Revenue 4.4M,PeopleFlow_Q4_2024.pdf,2026-08-18T12:32:24.597671+00:00,revenue,alias,high
-5956a03345f46937,PeopleFlow,2024-Q4,Subscription ARR (end of period),18300000.0,currency,GBP,declared,high,Subscription ARR (end of period) 18.3M,PeopleFlow_Q4_2024.pdf,2026-08-18T12:32:24.597671+00:00,arr,alias,high
-da870839e6d6bad5,Portfolio,2025-Q2,Gross Revenue Retention (LTM),0.91,pct,USD,symbol,high,Gross Revenue Retention (LTM) 91%,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:32:24.646975+00:00,grr,alias,high
-c523172c54b5e9b3,Portfolio,2025-Q2,Net Revenue Retention (LTM),1.19,pct,USD,symbol,high,Net Revenue Retention (LTM) 119%,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:32:24.646975+00:00,nrr,alias,high
-3d04b5a5da8722b2,Portfolio,2025-Q2,Cash,19600000.0,currency,USD,symbol,high,Cash $19.6M,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:32:24.646975+00:00,cash_balance,alias,high
-cb70ab73192bd827,Portfolio,2025-Q2,Logo Churn (LTM),0.058,pct,USD,symbol,high,Logo Churn (LTM) 5.8%,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:32:24.646975+00:00,logo_churn,alias,high
-e0efe4cda1933601,Portfolio,2025-Q2,Gross Margin,0.78,pct,USD,symbol,high,Gross Margin 78%,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:32:24.646975+00:00,gross_margin,alias,high
-059f0c6d625b7662,Portfolio,2025-Q2,Annual Recurring Revenue,34200000.0,currency,USD,symbol,high,Annual Recurring Revenue $34.2M,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:32:24.646975+00:00,arr,alias,high
-24736be646c47942,Portfolio,2025-Q2,Recognized Revenue,8400000.0,currency,USD,symbol,high,Recognized Revenue $8.4M,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:32:24.646975+00:00,revenue,alias,high
-d47ea96a1287b0ce,Portfolio,2025-Q2,Headcount,121.0,count,USD,symbol,high,Headcount 121,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:32:24.646975+00:00,headcount,alias,high
-450905cba27bda10,TalentVault,2025-Q1,Monthly Net Burn,-740000.0,currency,USD,symbol,high,Monthly Net Burn ($0.68M) ($0.74M),TalentVault_Q2_2025.pdf,2026-08-18T12:32:24.744606+00:00,net_burn,alias,high
-f1ab656f7f7666dd,TalentVault,2025-Q2,Monthly Net Burn,-680000.0,currency,USD,symbol,high,Monthly Net Burn ($0.68M) ($0.74M),TalentVault_Q2_2025.pdf,2026-08-18T12:32:24.744606+00:00,net_burn,alias,high
-6b3ade852b8ffe3f,TalentVault,2025-Q1,Total Headcount,97.0,count,USD,symbol,high,Total Headcount 103 97,TalentVault_Q2_2025.pdf,2026-08-18T12:32:24.744606+00:00,headcount,alias,high
-d948811285c03229,TalentVault,2025-Q2,Total Headcount,103.0,count,USD,symbol,high,Total Headcount 103 97,TalentVault_Q2_2025.pdf,2026-08-18T12:32:24.744606+00:00,headcount,alias,high
-44a7e0873de3e007,TalentVault,2025-Q1,Net Revenue Retention (LTM),1.16,pct,USD,symbol,high,Net Revenue Retention (LTM) 119% 116%,TalentVault_Q2_2025.pdf,2026-08-18T12:32:24.744606+00:00,nrr,alias,high
-4e5a9a93a76dd6f3,TalentVault,2025-Q2,Net Revenue Retention (LTM),1.19,pct,USD,symbol,high,Net Revenue Retention (LTM) 119% 116%,TalentVault_Q2_2025.pdf,2026-08-18T12:32:24.744606+00:00,nrr,alias,high
-cafb0860fcff20ca,TalentVault,2025-Q1,Gross Revenue Retention (LTM),0.9,pct,USD,symbol,high,Gross Revenue Retention (LTM) 91% 90%,TalentVault_Q2_2025.pdf,2026-08-18T12:32:24.744606+00:00,grr,alias,high
-2bf97e32eddad863,TalentVault,2025-Q1,Quarterly Revenue (recognized),5100000.0,currency,USD,symbol,high,Quarterly Revenue (recognized) $5.5M $5.1M,TalentVault_Q2_2025.pdf,2026-08-18T12:32:24.744606+00:00,revenue,alias,high
-d952c521a0c07837,TalentVault,2025-Q1,Gross Margin,0.75,pct,USD,symbol,high,Gross Margin 76% 75%,TalentVault_Q2_2025.pdf,2026-08-18T12:32:24.744606+00:00,gross_margin,alias,high
-f57d06d082bb70fb,TalentVault,2025-Q2,Gross Margin,0.76,pct,USD,symbol,high,Gross Margin 76% 75%,TalentVault_Q2_2025.pdf,2026-08-18T12:32:24.744606+00:00,gross_margin,alias,high
-11a8e0a843550d78,TalentVault,2025-Q2,Quarterly Revenue (recognized),5500000.0,currency,USD,symbol,high,Quarterly Revenue (recognized) $5.5M $5.1M,TalentVault_Q2_2025.pdf,2026-08-18T12:32:24.744606+00:00,revenue,alias,high
-625efe79d94501b1,TalentVault,2025-Q1,Contracted ARR,20800000.0,currency,USD,symbol,high,Contracted ARR $22.4M $20.8M,TalentVault_Q2_2025.pdf,2026-08-18T12:32:24.744606+00:00,arr,alias,high
-801992614aa42b8a,TalentVault,2025-Q2,Contracted ARR,22400000.0,currency,USD,symbol,high,Contracted ARR $22.4M $20.8M,TalentVault_Q2_2025.pdf,2026-08-18T12:32:24.744606+00:00,arr,alias,high
-a9511bd11d475da9,TalentVault,2025-Q2,Cash Balance,17900000.0,currency,USD,symbol,high,Cash Balance $17.9M $19.0M,TalentVault_Q2_2025.pdf,2026-08-18T12:32:24.744606+00:00,cash_balance,alias,high
-47063d8f19896b60,TalentVault,2025-Q2,Gross Revenue Retention (LTM),0.91,pct,USD,symbol,high,Gross Revenue Retention (LTM) 91% 90%,TalentVault_Q2_2025.pdf,2026-08-18T12:32:24.744606+00:00,grr,alias,high
-4f1e36d656746492,TalentVault,2025-Q1,Cash Balance,19000000.0,currency,USD,symbol,high,Cash Balance $17.9M $19.0M,TalentVault_Q2_2025.pdf,2026-08-18T12:32:24.744606+00:00,cash_balance,alias,high
+fdcdf9a497c0305b,ApexFreight,2025-Q2,On-Time Delivery Rate,0.961,pct,USD,symbol,high,On-Time Delivery Rate 96.1%,ApexFreight_Q2_2025.pdf,2026-08-18T12:39:32.915257+00:00,on_time_delivery_rate,alias,high
+c920fabfeaa21c98,ApexFreight,2025-Q2,Average Take Rate,0.112,pct,USD,symbol,high,Average Take Rate 11.2%,ApexFreight_Q2_2025.pdf,2026-08-18T12:39:32.915257+00:00,take_rate,alias,high
+c590eeecd07fe012,ApexFreight,2025-Q2,Total Recognized Revenue,9300000.0,currency,USD,symbol,high,Total Recognized Revenue 9.3M,ApexFreight_Q2_2025.pdf,2026-08-18T12:39:32.915257+00:00,revenue,alias,high
+ca7fa5a5ada4b0a8,ApexFreight,2025-Q2,Gross Margin,0.54,pct,USD,symbol,high,Gross Margin 54%,ApexFreight_Q2_2025.pdf,2026-08-18T12:39:32.915257+00:00,gross_margin,alias,high
+432431df203c0676,ApexFreight,2025-Q2,Total Headcount,204.0,count,USD,symbol,high,Total Headcount 204,ApexFreight_Q2_2025.pdf,2026-08-18T12:39:32.915257+00:00,headcount,alias,high
+e7917393ab3b0b5d,CarbonTrack,2025-Q1,Cash Balance,14800000.0,currency,USD,symbol,high,Cash Balance $13.8M $14.8M,CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,cash_balance,alias,high
+07a4d435dd24ef3e,CarbonTrack,2025-Q2,Cash Balance,13800000.0,currency,USD,symbol,high,Cash Balance $13.8M $14.8M,CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,cash_balance,alias,high
+6d535fd5e18a51cf,CarbonTrack,2025-Q1,Monthly Net Burn,-610000.0,currency,USD,symbol,high,Monthly Net Burn ($0.55M) ($0.61M),CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,net_burn,alias,high
+5775e1826e600eb4,CarbonTrack,2025-Q2,Monthly Net Burn,-550000.0,currency,USD,symbol,high,Monthly Net Burn ($0.55M) ($0.61M),CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,net_burn,alias,high
+121821a152dfe662,CarbonTrack,2025-Q1,Total Headcount,72.0,count,USD,symbol,high,Total Headcount 78 72,CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,headcount,alias,high
+87349175c5530184,CarbonTrack,2025-Q1,Logo Churn (LTM),0.041,pct,USD,symbol,high,Logo Churn (LTM) 3.8% 4.1%,CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,logo_churn,alias,high
+530e255d8182df26,CarbonTrack,2025-Q2,Logo Churn (LTM),0.038,pct,USD,symbol,high,Logo Churn (LTM) 3.8% 4.1%,CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,logo_churn,alias,high
+5f2bdbb26149f546,CarbonTrack,2025-Q2,Total Headcount,78.0,count,USD,symbol,high,Total Headcount 78 72,CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,headcount,alias,high
+b961c28d1f733e98,CarbonTrack,2025-Q2,Net Revenue Retention (LTM),1.21,pct,USD,symbol,high,Net Revenue Retention (LTM) 121% 118%,CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,nrr,alias,high
+10f24bd190bed1e1,CarbonTrack,2025-Q1,Gross Margin,0.72,pct,USD,symbol,high,Gross Margin 73% 72%,CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,gross_margin,alias,high
+e9e3962b7d01fb78,CarbonTrack,2025-Q2,Gross Margin,0.73,pct,USD,symbol,high,Gross Margin 73% 72%,CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,gross_margin,alias,high
+250c7a00234ead7c,CarbonTrack,2025-Q1,Recognized Revenue,3800000.0,currency,USD,symbol,high,Recognized Revenue $4.1M $3.8M,CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,revenue,alias,high
+701a3c1dd2ccc8dd,CarbonTrack,2025-Q2,Recognized Revenue,4100000.0,currency,USD,symbol,high,Recognized Revenue $4.1M $3.8M,CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,revenue,alias,high
+f56f954d13b41fad,CarbonTrack,2025-Q1,Contracted ARR,15200000.0,currency,USD,symbol,high,Contracted ARR $16.9M $15.2M,CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,arr,alias,high
+3daf8a9eb5ef36ae,CarbonTrack,2025-Q2,Contracted ARR,16900000.0,currency,USD,symbol,high,Contracted ARR $16.9M $15.2M,CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,arr,alias,high
+64340163b8e543f4,CarbonTrack,2025-Q1,Net Revenue Retention (LTM),1.18,pct,USD,symbol,high,Net Revenue Retention (LTM) 121% 118%,CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,nrr,alias,high
+37a8f99f06e2c03d,ClearPay,2025-Q1,Total Headcount,203.0,count,USD,symbol,high,Total Headcount 211 203,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,headcount,alias,high
+23478379188dfcbd,ClearPay,2025-Q2,Total Headcount,211.0,count,USD,symbol,high,Total Headcount 211 203,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,headcount,alias,high
+a4bfe1540ba9c701,ClearPay,2025-Q1,Gross Margin,0.66,pct,USD,symbol,high,Gross Margin 67% 66%,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,gross_margin,alias,high
+0a6e6848ca5d011c,ClearPay,2025-Q2,Total Recognized Revenue,17300000.0,currency,USD,symbol,high,Total Recognized Revenue $17.3M $16.1M,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,revenue,alias,high
+bd6041f28d32ab2d,ClearPay,2025-Q1,Total Recognized Revenue,16100000.0,currency,USD,symbol,high,Total Recognized Revenue $17.3M $16.1M,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,revenue,alias,high
+85932461efb096c9,ClearPay,2025-Q2,Gross Margin,0.67,pct,USD,symbol,high,Gross Margin 67% 66%,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,gross_margin,alias,high
+aeffcfbbd2277f87,ConstructIQ,2025-Q1,Logo Churn (LTM),0.068,pct,USD,symbol,high,Logo Churn (LTM) 6.3% 6.8%,ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,logo_churn,alias,high
+8e1f5e68662f3f36,ConstructIQ,2025-Q1,Total Headcount,84.0,count,USD,symbol,high,Total Headcount 89 84,ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,headcount,alias,high
+6ea2aa2a608339ea,ConstructIQ,2025-Q2,Total Headcount,89.0,count,USD,symbol,high,Total Headcount 89 84,ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,headcount,alias,high
+68c826462fb1c2bb,ConstructIQ,2025-Q1,Net Revenue Retention (LTM),1.1,pct,USD,symbol,high,Net Revenue Retention (LTM) 112% 110%,ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,nrr,alias,high
+9a36038c6b023805,ConstructIQ,2025-Q2,Logo Churn (LTM),0.063,pct,USD,symbol,high,Logo Churn (LTM) 6.3% 6.8%,ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,logo_churn,alias,high
+c29f1a9e2fd1ff2a,ConstructIQ,2025-Q1,Gross Margin,0.7,pct,USD,symbol,high,Gross Margin 71% 70%,ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,gross_margin,alias,high
+303a0cffec0ca8ab,ConstructIQ,2025-Q2,Annual Recurring Revenue,18600000.0,currency,USD,symbol,high,Annual Recurring Revenue $18.6M $17.1M,ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,arr,alias,high
+96ed9f7f3393fcb7,ConstructIQ,2025-Q1,Annual Recurring Revenue,17100000.0,currency,USD,symbol,high,Annual Recurring Revenue $18.6M $17.1M,ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,arr,alias,high
+00100812e6681512,ConstructIQ,2025-Q2,Net Revenue Retention (LTM),1.12,pct,USD,symbol,high,Net Revenue Retention (LTM) 112% 110%,ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,nrr,alias,high
+58cc751dbbf03e35,ConstructIQ,2025-Q2,Gross Margin,0.71,pct,USD,symbol,high,Gross Margin 71% 70%,ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,gross_margin,alias,high
+74eaf3b7aff4a19b,FleetLink,2025-Q1,Average Take Rate,0.11,pct,USD,symbol,high,Average Take Rate 11.0%,FleetLink_Q1_2025.pdf,2026-08-18T12:39:33.269156+00:00,take_rate,alias,high
+c27b0a86a87f47e6,FleetLink,2025-Q1,Gross Margin,0.52,pct,USD,symbol,high,Gross Margin 52%,FleetLink_Q1_2025.pdf,2026-08-18T12:39:33.269156+00:00,gross_margin,alias,high
+77bada6d0e3006ad,FleetLink,2024-Q4,On-Time Delivery Rate,0.946,pct,USD,symbol,high,On-Time Delivery Rate 94.6%,FleetLink_Q4_2024.pdf,2026-08-18T12:39:33.325019+00:00,on_time_delivery_rate,alias,high
+b7b67751aeca3290,FleetLink,2024-Q4,Gross Margin,0.51,pct,USD,symbol,high,Gross Margin 51%,FleetLink_Q4_2024.pdf,2026-08-18T12:39:33.325019+00:00,gross_margin,alias,high
+ef63555e78c7042b,FleetLink,2024-Q4,Total Headcount,196.0,count,USD,symbol,high,Total Headcount 196,FleetLink_Q4_2024.pdf,2026-08-18T12:39:33.325019+00:00,headcount,alias,high
+80f89d5c1a5440d0,FleetLink,2024-Q4,Average Take Rate,0.108,pct,USD,symbol,high,Average Take Rate 10.8%,FleetLink_Q4_2024.pdf,2026-08-18T12:39:33.325019+00:00,take_rate,alias,high
+7459a792b1dad88a,LendBridge,2025-Q1,Recognized Revenue,12100000.0,currency,USD,symbol,high,Recognized Revenue $12.1M,LendBridge_Q1_2025.pdf,2026-08-18T12:39:33.374752+00:00,revenue,alias,high
+6ac0ead60102524e,LendBridge,2025-Q1,Gross Margin,0.61,pct,USD,symbol,high,Gross Margin 61%,LendBridge_Q1_2025.pdf,2026-08-18T12:39:33.374752+00:00,gross_margin,alias,high
+eb79c07e3e18e10b,LendBridge,2025-Q1,Total Headcount,182.0,count,USD,symbol,high,Total Headcount 182,LendBridge_Q1_2025.pdf,2026-08-18T12:39:33.374752+00:00,headcount,alias,high
+695f03e4d16c8933,LendBridge,2024-Q2,Total Headcount,162.0,count,USD,symbol,high,Total Headcount 162,LendBridge_Q2_2024.pdf,2026-08-18T12:39:33.424532+00:00,headcount,alias,high
+333bfef8b06a8ee8,LendBridge,2024-Q2,Recognized Revenue,10100000.0,currency,USD,symbol,high,Recognized Revenue $10.1M,LendBridge_Q2_2024.pdf,2026-08-18T12:39:33.424532+00:00,revenue,alias,high
+8dd7423134af36da,LendBridge,2024-Q2,Gross Margin,0.58,pct,USD,symbol,high,Gross Margin 58%,LendBridge_Q2_2024.pdf,2026-08-18T12:39:33.424532+00:00,gross_margin,alias,high
+c6337808232a6c7f,LendBridge,2025-Q2,Total Headcount,188.0,count,USD,symbol,high,Total Headcount 188,LendBridge_Q2_2025.pdf,2026-08-18T12:39:33.506987+00:00,headcount,alias,high
+56f42ddcb48a476a,LendBridge,2025-Q2,Recognized Revenue,12700000.0,currency,USD,symbol,high,Recognized Revenue $12.7M,LendBridge_Q2_2025.pdf,2026-08-18T12:39:33.506987+00:00,revenue,alias,high
+cecefd3889c3531f,LendBridge,2025-Q2,Gross Margin,0.62,pct,USD,symbol,high,Gross Margin 62%,LendBridge_Q2_2025.pdf,2026-08-18T12:39:33.506987+00:00,gross_margin,alias,high
+6bfb45073c5aaa1a,LendBridge,2024-Q3,Recognized Revenue,10800000.0,currency,USD,symbol,high,Recognized Revenue $10.8M,LendBridge_Q3_2024.pdf,2026-08-18T12:39:33.565990+00:00,revenue,alias,high
+1e4113e848a215d1,LendBridge,2024-Q3,Gross Margin,0.59,pct,USD,symbol,high,Gross Margin 59%,LendBridge_Q3_2024.pdf,2026-08-18T12:39:33.565990+00:00,gross_margin,alias,high
+1f541e0b65ebe5b8,LendBridge,2024-Q3,Total Headcount,169.0,count,USD,symbol,high,Total Headcount 169,LendBridge_Q3_2024.pdf,2026-08-18T12:39:33.565990+00:00,headcount,alias,high
+83cef9efe47b72dd,LendBridge,2024-Q4,Recognized Revenue,11400000.0,currency,USD,symbol,high,Recognized Revenue $11.4M,LendBridge_Q4_2024.pdf,2026-08-18T12:39:33.623627+00:00,revenue,alias,high
+8a3ad59e3945c2af,LendBridge,2024-Q4,Gross Margin,0.6,pct,USD,symbol,high,Gross Margin 60%,LendBridge_Q4_2024.pdf,2026-08-18T12:39:33.623627+00:00,gross_margin,alias,high
+110c7d8dcf54d789,LendBridge,2024-Q4,Total Headcount,175.0,count,USD,symbol,high,Total Headcount 175,LendBridge_Q4_2024.pdf,2026-08-18T12:39:33.623627+00:00,headcount,alias,high
+5e0569c9dffb3864,MediSight,2025-Q1,Gross Margin,0.76,pct,,unknown,high,Gross Margin 76%,MediSight_Q1_2025.pdf,2026-08-18T12:39:33.658943+00:00,gross_margin,alias,high
+8bf3a5b67b7b3312,MediSight,2025-Q1,Recognized Revenue,6300000.0,currency,,unknown,high,Recognized Revenue 6.3M,MediSight_Q1_2025.pdf,2026-08-18T12:39:33.658943+00:00,revenue,alias,high
+69471a4827014bd0,MediSight,2025-Q2,Recognized Revenue,6800000.0,currency,,unknown,high,Recognized Revenue 6.8M,MediSight_Q2_2025.pdf,2026-08-18T12:39:33.706631+00:00,revenue,alias,high
+21fa2c5ad0179931,MediSight,2025-Q2,Gross Margin,0.77,pct,,unknown,high,Gross Margin 77%,MediSight_Q2_2025.pdf,2026-08-18T12:39:33.706631+00:00,gross_margin,alias,high
+5975bbd9e142002d,MediSight,2025-Q2,Total Headcount,121.0,count,,unknown,high,Total Headcount 121,MediSight_Q2_2025.pdf,2026-08-18T12:39:33.706631+00:00,headcount,alias,high
+abc0defb92390bee,MediSight,2024-Q4,Recognized Revenue,6100000.0,currency,,unknown,high,Recognized Revenue 6.1M,MediSight_Q4_2024.pdf,2026-08-18T12:39:33.758340+00:00,revenue,alias,high
+541c99162ac119e1,MediSight,2024-Q4,Gross Margin,0.75,pct,,unknown,high,Gross Margin 75%,MediSight_Q4_2024.pdf,2026-08-18T12:39:33.758340+00:00,gross_margin,alias,high
+e229c106218de7e2,MediSight,2024-Q4,Total Headcount,108.0,count,,unknown,high,Total Headcount 108,MediSight_Q4_2024.pdf,2026-08-18T12:39:33.758340+00:00,headcount,alias,high
+0929bfd76c15cc4b,NovaCloud,2025-Q1,Total Headcount,135.0,count,USD,symbol,high,Total Headcount 135,NovaCloud_Q1_2025.pdf,2026-08-18T12:39:33.804854+00:00,headcount,alias,high
+c2fa88334244611d,NovaCloud,2025-Q1,Cash Balance,21300000.0,currency,USD,symbol,high,Cash Balance $21.3M,NovaCloud_Q1_2025.pdf,2026-08-18T12:39:33.804854+00:00,cash_balance,alias,high
+554c4376063e9a65,NovaCloud,2025-Q1,Monthly Net Burn,-820000.0,currency,USD,symbol,high,Monthly Net Burn ($0.82M),NovaCloud_Q1_2025.pdf,2026-08-18T12:39:33.804854+00:00,net_burn,alias,high
+990425b4e4cad91d,NovaCloud,2025-Q1,Gross Margin,0.77,pct,USD,symbol,high,Gross Margin 77%,NovaCloud_Q1_2025.pdf,2026-08-18T12:39:33.804854+00:00,gross_margin,alias,high
+8245cb4dc8d8bd30,NovaCloud,2025-Q1,End-of-Period ARR,31600000.0,currency,USD,symbol,high,End-of-Period ARR $31.6M,NovaCloud_Q1_2025.pdf,2026-08-18T12:39:33.804854+00:00,arr,alias,high
+ae006abe82bebf92,NovaCloud,2025-Q1,Logo Churn (LTM),0.061,pct,USD,symbol,high,Logo Churn (LTM) 6.1%,NovaCloud_Q1_2025.pdf,2026-08-18T12:39:33.804854+00:00,logo_churn,alias,high
+a88708852328c194,NovaCloud,2024-Q2,End-of-Period ARR,24100000.0,currency,USD,symbol,high,End-of-Period ARR $24.1M,NovaCloud_Q2_2024.pdf,2026-08-18T12:39:33.912268+00:00,arr,alias,high
+cea3fd970cd02333,NovaCloud,2024-Q2,Gross Margin,0.74,pct,USD,symbol,high,Gross Margin 74%,NovaCloud_Q2_2024.pdf,2026-08-18T12:39:33.912268+00:00,gross_margin,alias,high
+d9f781f200e18a2f,NovaCloud,2024-Q2,Net Dollar Retention (LTM),1.15,pct,USD,symbol,high,Net Dollar Retention (LTM) 115%,NovaCloud_Q2_2024.pdf,2026-08-18T12:39:33.912268+00:00,nrr,alias,high
+49c122135831c56d,NovaCloud,2024-Q2,Cash Balance,29500000.0,currency,USD,symbol,high,Cash Balance $29.5M,NovaCloud_Q2_2024.pdf,2026-08-18T12:39:33.912268+00:00,cash_balance,alias,high
+d4b4bb0d136f089a,NovaCloud,2024-Q2,Monthly Net Burn,-980000.0,currency,USD,symbol,high,Monthly Net Burn ($0.98M),NovaCloud_Q2_2024.pdf,2026-08-18T12:39:33.912268+00:00,net_burn,alias,high
+80ce5cd6d94f4919,NovaCloud,2024-Q2,Total Headcount,112.0,count,USD,symbol,high,Total Headcount 112,NovaCloud_Q2_2024.pdf,2026-08-18T12:39:33.912268+00:00,headcount,alias,high
+da6da29ca36961e3,NovaCloud,2025-Q2,Gross Margin,0.78,pct,USD,symbol,high,Gross Margin 78%,NovaCloud_Q2_2025.pdf,2026-08-18T12:39:33.963954+00:00,gross_margin,alias,high
+0b293bbe4429ef6b,NovaCloud,2025-Q2,Logo Churn (LTM),0.058,pct,USD,symbol,high,Logo Churn (LTM) 5.8%,NovaCloud_Q2_2025.pdf,2026-08-18T12:39:33.963954+00:00,logo_churn,alias,high
+80ba54812e06f566,NovaCloud,2025-Q2,Cash Balance,19600000.0,currency,USD,symbol,high,Cash Balance $19.6M,NovaCloud_Q2_2025.pdf,2026-08-18T12:39:33.963954+00:00,cash_balance,alias,high
+717b655a64973298,NovaCloud,2025-Q2,Monthly Net Burn,-750000.0,currency,USD,symbol,high,Monthly Net Burn ($0.75M),NovaCloud_Q2_2025.pdf,2026-08-18T12:39:33.963954+00:00,net_burn,alias,high
+6f4dd1ebc71daaac,NovaCloud,2025-Q2,Total Headcount,142.0,count,USD,symbol,high,Total Headcount 142,NovaCloud_Q2_2025.pdf,2026-08-18T12:39:33.963954+00:00,headcount,alias,high
+ca6734bb1a7ed494,NovaCloud,2024-Q3,Cash Balance,26600000.0,currency,USD,symbol,high,Cash Balance $26.6M,NovaCloud_Q3_2024.pdf,2026-08-18T12:39:34.025402+00:00,cash_balance,alias,high
+43e066a1e8c06bd0,NovaCloud,2024-Q3,Monthly Net Burn,-950000.0,currency,USD,symbol,high,Monthly Net Burn ($0.95M),NovaCloud_Q3_2024.pdf,2026-08-18T12:39:34.025402+00:00,net_burn,alias,high
+b953e3466adc4078,NovaCloud,2024-Q3,Total Headcount,120.0,count,USD,symbol,high,Total Headcount 120,NovaCloud_Q3_2024.pdf,2026-08-18T12:39:34.025402+00:00,headcount,alias,high
+1a38850dfe5187f0,NovaCloud,2024-Q3,Net Dollar Retention (LTM),1.17,pct,USD,symbol,high,Net Dollar Retention (LTM) 117%,NovaCloud_Q3_2024.pdf,2026-08-18T12:39:34.025402+00:00,nrr,alias,high
+a9d4f87f1f5e0c69,NovaCloud,2024-Q3,End-of-Period ARR,26800000.0,currency,USD,symbol,high,End-of-Period ARR $26.8M,NovaCloud_Q3_2024.pdf,2026-08-18T12:39:34.025402+00:00,arr,alias,high
+01ff87c315c68533,NovaCloud,2024-Q3,Gross Margin,0.75,pct,USD,symbol,high,Gross Margin 75%,NovaCloud_Q3_2024.pdf,2026-08-18T12:39:34.025402+00:00,gross_margin,alias,high
+104e8bbb7b47856e,NovaCloud,2024-Q4,End-of-Period ARR,29100000.0,currency,USD,symbol,high,End-of-Period ARR $29.1M,NovaCloud_Q4_2024.pdf,2026-08-18T12:39:34.093811+00:00,arr,alias,high
+79da749c855ab028,NovaCloud,2024-Q4,Cash Balance,24000000.0,currency,USD,symbol,high,Cash Balance $24.0M,NovaCloud_Q4_2024.pdf,2026-08-18T12:39:34.093811+00:00,cash_balance,alias,high
+5bfd981e5c9c04f9,NovaCloud,2024-Q4,Monthly Net Burn,-880000.0,currency,USD,symbol,high,Monthly Net Burn ($0.88M),NovaCloud_Q4_2024.pdf,2026-08-18T12:39:34.093811+00:00,net_burn,alias,high
+73d4b7656c7e4d69,NovaCloud,2024-Q4,Total Headcount,128.0,count,USD,symbol,high,Total Headcount 128,NovaCloud_Q4_2024.pdf,2026-08-18T12:39:34.093811+00:00,headcount,alias,high
+fe590ac53db40374,PeopleFlow,2025-Q1,Quarterly Revenue,4700000.0,currency,GBP,declared,high,Quarterly Revenue 4.7M,PeopleFlow_Q1_2025.pdf,2026-08-18T12:39:34.145625+00:00,revenue,alias,high
+9dc9872983aca02d,PeopleFlow,2025-Q1,Subscription ARR (end of period),19800000.0,currency,GBP,declared,high,Subscription ARR (end of period) 19.8M,PeopleFlow_Q1_2025.pdf,2026-08-18T12:39:34.145625+00:00,arr,alias,high
+37de7e488a763691,PeopleFlow,2025-Q1,Gross Margin,0.74,pct,GBP,declared,high,Gross Margin 74%,PeopleFlow_Q1_2025.pdf,2026-08-18T12:39:34.145625+00:00,gross_margin,alias,high
+e38102c77bc7e86a,PeopleFlow,2025-Q1,Total Headcount,92.0,count,GBP,declared,high,Total Headcount 92,PeopleFlow_Q1_2025.pdf,2026-08-18T12:39:34.145625+00:00,headcount,alias,high
+5e6dad706a33aeeb,PeopleFlow,2025-Q2,Quarterly Revenue,5100000.0,currency,GBP,declared,high,Quarterly Revenue 5.1M,PeopleFlow_Q2_2025.pdf,2026-08-18T12:39:34.191966+00:00,revenue,alias,high
+cc024d0ac7f3b318,PeopleFlow,2025-Q2,Subscription ARR (end of period),21400000.0,currency,GBP,declared,high,Subscription ARR (end of period) 21.4M,PeopleFlow_Q2_2025.pdf,2026-08-18T12:39:34.191966+00:00,arr,alias,high
+1fe5f3711b126a11,PeopleFlow,2025-Q2,Net Dollar Retention (LTM),1.18,pct,GBP,declared,high,Net Dollar Retention (LTM) 118%,PeopleFlow_Q2_2025.pdf,2026-08-18T12:39:34.191966+00:00,nrr,alias,high
+cfe22b93bddf9f17,PeopleFlow,2025-Q2,Total Headcount,96.0,count,GBP,declared,high,Total Headcount 96,PeopleFlow_Q2_2025.pdf,2026-08-18T12:39:34.191966+00:00,headcount,alias,high
+dfc6ba52f4321456,PeopleFlow,2024-Q4,Total Headcount,88.0,count,GBP,declared,high,Total Headcount 88,PeopleFlow_Q4_2024.pdf,2026-08-18T12:39:34.284152+00:00,headcount,alias,high
+96d45a62cfa355af,PeopleFlow,2024-Q4,Gross Margin,0.74,pct,GBP,declared,high,Gross Margin 74%,PeopleFlow_Q4_2024.pdf,2026-08-18T12:39:34.284152+00:00,gross_margin,alias,high
+da7926d261b594e3,PeopleFlow,2024-Q4,Net Dollar Retention (LTM),1.16,pct,GBP,declared,high,Net Dollar Retention (LTM) 116%,PeopleFlow_Q4_2024.pdf,2026-08-18T12:39:34.284152+00:00,nrr,alias,high
+d1e35bdad714395b,PeopleFlow,2024-Q4,Quarterly Revenue,4400000.0,currency,GBP,declared,high,Quarterly Revenue 4.4M,PeopleFlow_Q4_2024.pdf,2026-08-18T12:39:34.284152+00:00,revenue,alias,high
+5956a03345f46937,PeopleFlow,2024-Q4,Subscription ARR (end of period),18300000.0,currency,GBP,declared,high,Subscription ARR (end of period) 18.3M,PeopleFlow_Q4_2024.pdf,2026-08-18T12:39:34.284152+00:00,arr,alias,high
+bee55e9b51a212ce,Portfolio,2025-Q2,Headcount,78.0,count,USD,symbol,high,Headcount 78,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,headcount,alias,high
+cf72dc717d7b3515,Portfolio,2025-Q2,Net Revenue Retention,1.21,pct,USD,symbol,high,Net Revenue Retention 121%,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,nrr,alias,high
+f88dbdb5aeecf144,Portfolio,2025-Q2,Revenue,4100000.0,currency,USD,symbol,high,Revenue $4.1M,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,revenue,alias,high
+4130cc51b683e2df,Portfolio,2025-Q2,ARR,16900000.0,currency,USD,symbol,high,ARR $16.9M,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,arr,alias,high
+da870839e6d6bad5,Portfolio,2025-Q2,Gross Revenue Retention (LTM),0.91,pct,USD,symbol,high,Gross Revenue Retention (LTM) 91%,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,grr,alias,high
+c523172c54b5e9b3,Portfolio,2025-Q2,Net Revenue Retention (LTM),1.19,pct,USD,symbol,high,Net Revenue Retention (LTM) 119%,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,nrr,alias,high
+c507c8da279d46db,Portfolio,2025-Q2,Gross Margin,0.76,pct,USD,symbol,high,Gross Margin 76%,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,gross_margin,alias,high
+e701c4af01e31738,Portfolio,2025-Q2,Quarterly Revenue,5500000.0,currency,USD,symbol,high,Quarterly Revenue $5.5M,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,revenue,alias,high
+37010571b39f46d0,Portfolio,2025-Q2,Contracted ARR,22400000.0,currency,USD,symbol,high,Contracted ARR $22.4M,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,arr,alias,high
+76710b1f8e97e315,Portfolio,2025-Q2,Gross Margin,0.73,pct,USD,symbol,high,Gross Margin 73%,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,gross_margin,alias,high
+d53fcfc30f7ea9ff,Portfolio,2025-Q2,Gross Margin,0.77,pct,USD,symbol,high,Gross Margin 77%,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,gross_margin,alias,high
+dd8de4f893657df0,Portfolio,2025-Q2,Recognized Revenue,6800000.0,currency,USD,symbol,high,Recognized Revenue 6.8M,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,revenue,alias,high
+3e7e048e526591e4,Portfolio,2025-Q2,FTE,142.0,count,USD,symbol,high,FTE 142,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,headcount,alias,high
+3d04b5a5da8722b2,Portfolio,2025-Q2,Cash,19600000.0,currency,USD,symbol,high,Cash $19.6M,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,cash_balance,alias,high
+cb70ab73192bd827,Portfolio,2025-Q2,Logo Churn (LTM),0.058,pct,USD,symbol,high,Logo Churn (LTM) 5.8%,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,logo_churn,alias,high
+e0efe4cda1933601,Portfolio,2025-Q2,Gross Margin,0.78,pct,USD,symbol,high,Gross Margin 78%,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,gross_margin,alias,high
+059f0c6d625b7662,Portfolio,2025-Q2,Annual Recurring Revenue,34200000.0,currency,USD,symbol,high,Annual Recurring Revenue $34.2M,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,arr,alias,high
+24736be646c47942,Portfolio,2025-Q2,Recognized Revenue,8400000.0,currency,USD,symbol,high,Recognized Revenue $8.4M,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,revenue,alias,high
+d47ea96a1287b0ce,Portfolio,2025-Q2,Headcount,121.0,count,USD,symbol,high,Headcount 121,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,headcount,alias,high
+450905cba27bda10,TalentVault,2025-Q1,Monthly Net Burn,-740000.0,currency,USD,symbol,high,Monthly Net Burn ($0.68M) ($0.74M),TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,net_burn,alias,high
+f1ab656f7f7666dd,TalentVault,2025-Q2,Monthly Net Burn,-680000.0,currency,USD,symbol,high,Monthly Net Burn ($0.68M) ($0.74M),TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,net_burn,alias,high
+6b3ade852b8ffe3f,TalentVault,2025-Q1,Total Headcount,97.0,count,USD,symbol,high,Total Headcount 103 97,TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,headcount,alias,high
+d948811285c03229,TalentVault,2025-Q2,Total Headcount,103.0,count,USD,symbol,high,Total Headcount 103 97,TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,headcount,alias,high
+44a7e0873de3e007,TalentVault,2025-Q1,Net Revenue Retention (LTM),1.16,pct,USD,symbol,high,Net Revenue Retention (LTM) 119% 116%,TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,nrr,alias,high
+4e5a9a93a76dd6f3,TalentVault,2025-Q2,Net Revenue Retention (LTM),1.19,pct,USD,symbol,high,Net Revenue Retention (LTM) 119% 116%,TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,nrr,alias,high
+cafb0860fcff20ca,TalentVault,2025-Q1,Gross Revenue Retention (LTM),0.9,pct,USD,symbol,high,Gross Revenue Retention (LTM) 91% 90%,TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,grr,alias,high
+2bf97e32eddad863,TalentVault,2025-Q1,Quarterly Revenue (recognized),5100000.0,currency,USD,symbol,high,Quarterly Revenue (recognized) $5.5M $5.1M,TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,revenue,alias,high
+d952c521a0c07837,TalentVault,2025-Q1,Gross Margin,0.75,pct,USD,symbol,high,Gross Margin 76% 75%,TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,gross_margin,alias,high
+f57d06d082bb70fb,TalentVault,2025-Q2,Gross Margin,0.76,pct,USD,symbol,high,Gross Margin 76% 75%,TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,gross_margin,alias,high
+11a8e0a843550d78,TalentVault,2025-Q2,Quarterly Revenue (recognized),5500000.0,currency,USD,symbol,high,Quarterly Revenue (recognized) $5.5M $5.1M,TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,revenue,alias,high
+625efe79d94501b1,TalentVault,2025-Q1,Contracted ARR,20800000.0,currency,USD,symbol,high,Contracted ARR $22.4M $20.8M,TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,arr,alias,high
+801992614aa42b8a,TalentVault,2025-Q2,Contracted ARR,22400000.0,currency,USD,symbol,high,Contracted ARR $22.4M $20.8M,TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,arr,alias,high
+a9511bd11d475da9,TalentVault,2025-Q2,Cash Balance,17900000.0,currency,USD,symbol,high,Cash Balance $17.9M $19.0M,TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,cash_balance,alias,high
+47063d8f19896b60,TalentVault,2025-Q2,Gross Revenue Retention (LTM),0.91,pct,USD,symbol,high,Gross Revenue Retention (LTM) 91% 90%,TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,grr,alias,high
+4f1e36d656746492,TalentVault,2025-Q1,Cash Balance,19000000.0,currency,USD,symbol,high,Cash Balance $17.9M $19.0M,TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,cash_balance,alias,high

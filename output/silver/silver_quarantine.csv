@@ -1,0 +1,172 @@
+record_id,company,period,metric,value,unit,currency,currency_method,extraction_confidence,source_snippet,source_file,ingested_at,metric_canonical,match_method,match_confidence
+94a795af1b9a26a7,ApexFreight,2025-Q2,Completed Shipments,1280000.0,count,USD,symbol,high,Completed Shipments 1.28M,ApexFreight_Q2_2025.pdf,2026-08-18T12:39:32.915257+00:00,,unmapped,none
+70d9befc02182e44,ApexFreight,2025-Q2,Active Shippers,3460.0,count,USD,symbol,high,"Active Shippers 3,460",ApexFreight_Q2_2025.pdf,2026-08-18T12:39:32.915257+00:00,,unmapped,none
+1661bf58728e6fed,ApexFreight,2025-Q2,Active Carriers,7900.0,count,USD,symbol,high,"Active Carriers 7,900",ApexFreight_Q2_2025.pdf,2026-08-18T12:39:32.915257+00:00,,unmapped,none
+e66f91e1aaca78ea,ApexFreight,2025-Q2,Recognized Revenue (transaction),8600000.0,currency,USD,symbol,high,Recognized Revenue (transaction) 8.6M,ApexFreight_Q2_2025.pdf,2026-08-18T12:39:32.915257+00:00,revenue,keyword,medium
+b3bc70b488c237f0,ApexFreight,2025-Q2,SaaS Tool Fee Revenue,700000.0,currency,USD,symbol,high,SaaS Tool Fee Revenue 0.7M,ApexFreight_Q2_2025.pdf,2026-08-18T12:39:32.915257+00:00,revenue,keyword,medium
+8bc16fc432279e65,ApexFreight,2025-Q2,Marketing Spend as % of Revenue,0.16,currency,USD,symbol,high,Marketing Spend as % of Revenue 16%,ApexFreight_Q2_2025.pdf,2026-08-18T12:39:32.915257+00:00,revenue,keyword,medium
+428b9bda18ffe5f5,ApexFreight,2025-Q2,"Support Tickets / 1,000 Shipments",14.3,ratio,USD,symbol,high,"Support Tickets / 1,000 Shipments 14.3",ApexFreight_Q2_2025.pdf,2026-08-18T12:39:32.915257+00:00,,unmapped,none
+a6531d0264b8dc36,CarbonTrack,2025-Q2,Paying Entities (platform),1042.0,count,USD,symbol,high,"Paying Entities (platform) 1,042 964",CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,,unmapped,none
+2156c5fa1e1c614c,CarbonTrack,2025-Q1,Paying Entities (platform),964.0,count,USD,symbol,high,"Paying Entities (platform) 1,042 964",CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,,unmapped,none
+2b12b98f36c82eae,CarbonTrack,2025-Q2,Emission Records Processed (QTD),88400000.0,count,USD,symbol,high,Emission Records Processed (QTD) 88.4M,CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,,unmapped,none
+7bd65a07777840ad,CarbonTrack,2025-Q2,Connected Data Source Integrations,214.0,count,USD,symbol,high,Connected Data Source Integrations 214,CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,,unmapped,none
+5f4d45f57f3bb0c3,CarbonTrack,2025-Q2,Scope 3 Value Chain Entities Tracked,28600.0,count,USD,symbol,high,"Scope 3 Value Chain Entities Tracked 28,600",CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,,unmapped,none
+7e0fe7988c629a30,CarbonTrack,2025-Q2,Avg. Reporting Frameworks per Client,2.3,ratio,USD,symbol,high,Avg. Reporting Frameworks per Client 2.3,CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,,unmapped,none
+d17e3bd01ed59897,CarbonTrack,2025-Q2,Automated Audit Trail Coverage,0.96,pct,USD,symbol,high,Automated Audit Trail Coverage 96%,CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,,unmapped,none
+017835eec404dca6,CarbonTrack,2025-Q2,API Data Ingestion Uptime,0.9989,pct,USD,symbol,high,API Data Ingestion Uptime 99.89%,CarbonTrack_Q2_2025.pdf,2026-08-18T12:39:33.025760+00:00,,unmapped,none
+a6790e062a49c3f1,ClearPay,2025-Q2,Total Payment Volume (TPV),3420000000.0,currency,USD,symbol,high,Total Payment Volume (TPV) $3.42B $3.11B,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,,unmapped,none
+3160e6445120859c,ClearPay,2025-Q1,Total Payment Volume (TPV),3110000000.0,currency,USD,symbol,high,Total Payment Volume (TPV) $3.42B $3.11B,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,,unmapped,none
+0cb6b0020b16a4dd,ClearPay,2025-Q2,Net Revenue (take-rate based),14800000.0,currency,USD,symbol,high,Net Revenue (take-rate based) $14.8M $13.5M,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,revenue,keyword,medium
+2fee85e0a5c3a08c,ClearPay,2025-Q1,Net Revenue (take-rate based),13500000.0,currency,USD,symbol,high,Net Revenue (take-rate based) $14.8M $13.5M,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,revenue,keyword,medium
+35b9704a0857e9f4,ClearPay,2025-Q2,Platform Access Revenue,2100000.0,currency,USD,symbol,high,Platform Access Revenue $2.1M $1.9M,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,revenue,keyword,medium
+fddc808cf5d27838,ClearPay,2025-Q1,Platform Access Revenue,1900000.0,currency,USD,symbol,high,Platform Access Revenue $2.1M $1.9M,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,revenue,keyword,medium
+f4b774c85dac5063,ClearPay,2025-Q2,Implementation Services Revenue,400000.0,currency,USD,symbol,high,Implementation Services Revenue $0.4M $0.7M,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,revenue,keyword,medium
+dd6804fddf96504a,ClearPay,2025-Q1,Implementation Services Revenue,700000.0,currency,USD,symbol,high,Implementation Services Revenue $0.4M $0.7M,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,revenue,keyword,medium
+a92e21e67ebdf3c8,ClearPay,2025-Q2,Cash & Restricted Cash,38400000.0,currency,USD,symbol,high,Cash & Restricted Cash $38.4M $40.1M,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,,unmapped,none
+89110e4b9fd52573,ClearPay,2025-Q1,Cash & Restricted Cash,40100000.0,currency,USD,symbol,high,Cash & Restricted Cash $38.4M $40.1M,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,,unmapped,none
+81e6fb9f6ab7a8cd,ClearPay,2025-Q2,Active Connected Platforms,184.0,count,USD,symbol,high,Active Connected Platforms 184 171,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,,unmapped,none
+277ff4fda5e45e55,ClearPay,2025-Q1,Active Connected Platforms,171.0,count,USD,symbol,high,Active Connected Platforms 184 171,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,,unmapped,none
+a3c7b47f6a5a5e4b,ClearPay,2025-Q2,Transactions Processed (QTD),28600000.0,count,USD,symbol,high,Transactions Processed (QTD) 28.6M 26.1M,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,,unmapped,none
+43370edb3ecc484c,ClearPay,2025-Q1,Transactions Processed (QTD),26100000.0,count,USD,symbol,high,Transactions Processed (QTD) 28.6M 26.1M,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,,unmapped,none
+1d9548c9e601f115,ClearPay,2025-Q2,Avg. Transaction Size,119.6,currency,USD,symbol,high,Avg. Transaction Size $119.6 $119.2,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,,unmapped,none
+32cec5640867921a,ClearPay,2025-Q1,Avg. Transaction Size,119.2,currency,USD,symbol,high,Avg. Transaction Size $119.6 $119.2,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,,unmapped,none
+28ba4bb9597ef7e3,ClearPay,2025-Q2,Payment Failure Rate,0.0031,pct,USD,symbol,high,Payment Failure Rate 0.31% 0.34%,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,,unmapped,none
+7ed8631b78803f6e,ClearPay,2025-Q1,Payment Failure Rate,0.0034,pct,USD,symbol,high,Payment Failure Rate 0.31% 0.34%,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,,unmapped,none
+440ab804d7d07971,ClearPay,2025-Q2,Reconciliation Accuracy Rate,0.9987,pct,USD,symbol,high,Reconciliation Accuracy Rate 99.87% 99.84%,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,,unmapped,none
+98f0978ccd7a8098,ClearPay,2025-Q1,Reconciliation Accuracy Rate,0.9984,pct,USD,symbol,high,Reconciliation Accuracy Rate 99.87% 99.84%,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,,unmapped,none
+1f76ad7c4cfb2620,ClearPay,unknown,API Uptime (SLA,0.999,pct,USD,symbol,low,API Uptime (SLA: 99.9%) 99.94% 99.91%,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,,unmapped,none
+41a417b317bfbac3,ClearPay,unknown,API Uptime (SLA,0.9994,pct,USD,symbol,low,API Uptime (SLA: 99.9%) 99.94% 99.91%,ClearPay_Q2_2025.pdf,2026-08-18T12:39:33.123932+00:00,,unmapped,none
+5b3c060f2a664abc,ConstructIQ,2025-Q2,Quarterly Recognized Revenue,4500000.0,currency,USD,symbol,high,Quarterly Recognized Revenue $4.5M $4.2M,ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,revenue,keyword,medium
+997ae0a155127731,ConstructIQ,2025-Q1,Quarterly Recognized Revenue,4200000.0,currency,USD,symbol,high,Quarterly Recognized Revenue $4.5M $4.2M,ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,revenue,keyword,medium
+b537a9fa02cf7559,ConstructIQ,2025-Q2,Total Paying Accounts,834.0,count,USD,symbol,high,Total Paying Accounts 834 798,ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,,unmapped,none
+50e48b008f39b170,ConstructIQ,2025-Q1,Total Paying Accounts,798.0,count,USD,symbol,high,Total Paying Accounts 834 798,ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,,unmapped,none
+f9104c7c308197ac,ConstructIQ,2025-Q2,Avg. Modules per Account,2.4,ratio,USD,symbol,high,Avg. Modules per Account 2.4 2.1,ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,,unmapped,none
+2f052475ef6d9f66,ConstructIQ,2025-Q1,Avg. Modules per Account,2.1,ratio,USD,symbol,high,Avg. Modules per Account 2.4 2.1,ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,,unmapped,none
+070e2e6adba4ebe8,ConstructIQ,2025-Q2,Cash & Equivalents,11200000.0,currency,USD,symbol,high,Cash & Equivalents $11.2M $12.1M,ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,,unmapped,none
+e098d142bead244a,ConstructIQ,2025-Q1,Cash & Equivalents,12100000.0,currency,USD,symbol,high,Cash & Equivalents $11.2M $12.1M,ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,,unmapped,none
+617879662570f56b,ConstructIQ,2025-Q2,Quarterly Net Burn,-910000.0,currency,USD,symbol,high,Quarterly Net Burn ($0.91M) ($0.97M),ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,,unmapped,none
+87b4d1f14438cb01,ConstructIQ,2025-Q1,Quarterly Net Burn,-970000.0,currency,USD,symbol,high,Quarterly Net Burn ($0.91M) ($0.97M),ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,,unmapped,none
+d4fe2d43e929a193,ConstructIQ,2025-Q2,Monthly Active Projects (avg.),12400.0,count,USD,symbol,high,"Monthly Active Projects (avg.) 12,400",ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,,unmapped,none
+8682571b22d552d3,ConstructIQ,2025-Q2,Daily Active Users / Licensed Seats,0.58,pct,USD,symbol,high,Daily Active Users / Licensed Seats 58%,ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,,unmapped,none
+4b5a894f4d547a30,ConstructIQ,2025-Q2,Documents Processed (QTD),2100000.0,count,USD,symbol,high,Documents Processed (QTD) 2.1M,ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,,unmapped,none
+e251f45dbfb14314,ConstructIQ,2025-Q2,Safety Inspection Completions (QTD),94000.0,count,USD,symbol,high,"Safety Inspection Completions (QTD) 94,000",ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,,unmapped,none
+fc4c400d413945cc,ConstructIQ,2025-Q2,Subcontractor Portal Connections,3810.0,count,USD,symbol,high,"Subcontractor Portal Connections 3,810",ConstructIQ_Q2_2025.pdf,2026-08-18T12:39:33.195585+00:00,,unmapped,none
+4a70a20aec0d32c1,FleetLink,2025-Q1,Completed Shipments,1170000.0,count,USD,symbol,high,Completed Shipments 1.17M,FleetLink_Q1_2025.pdf,2026-08-18T12:39:33.269156+00:00,,unmapped,none
+07e1bef9541257d9,FleetLink,2025-Q1,Active Shippers,3310.0,count,USD,symbol,high,"Active Shippers 3,310",FleetLink_Q1_2025.pdf,2026-08-18T12:39:33.269156+00:00,,unmapped,none
+9637ce892ca81c16,FleetLink,2025-Q1,Active Carriers,7550.0,count,USD,symbol,high,"Active Carriers 7,550",FleetLink_Q1_2025.pdf,2026-08-18T12:39:33.269156+00:00,,unmapped,none
+af5073e89e99ee17,FleetLink,2025-Q1,Gross Transaction Revenue,8900000.0,currency,USD,symbol,high,Gross Transaction Revenue 8.9M,FleetLink_Q1_2025.pdf,2026-08-18T12:39:33.269156+00:00,revenue,keyword,medium
+96970906dd7d393e,FleetLink,2025-Q1,Contribution Margin / Shipment,2.19,currency,USD,symbol,high,Contribution Margin / Shipment $2.19,FleetLink_Q1_2025.pdf,2026-08-18T12:39:33.269156+00:00,,unmapped,none
+d863d1d39df7c840,FleetLink,2025-Q1,Marketing Spend as % of Revenue,0.17,currency,USD,symbol,high,Marketing Spend as % of Revenue 17%,FleetLink_Q1_2025.pdf,2026-08-18T12:39:33.269156+00:00,revenue,keyword,medium
+f60a68ee0fd98551,FleetLink,2025-Q1,"Support Tickets / 1,000 Shipments",14.9,ratio,USD,symbol,high,"Support Tickets / 1,000 Shipments 14.9",FleetLink_Q1_2025.pdf,2026-08-18T12:39:33.269156+00:00,,unmapped,none
+a17636e71f7c5285,FleetLink,2024-Q4,Completed Shipments,1070000.0,count,USD,symbol,high,Completed Shipments 1.07M,FleetLink_Q4_2024.pdf,2026-08-18T12:39:33.325019+00:00,,unmapped,none
+076f53993c0d277b,FleetLink,2024-Q4,Active Shippers,3180.0,count,USD,symbol,high,"Active Shippers 3,180",FleetLink_Q4_2024.pdf,2026-08-18T12:39:33.325019+00:00,,unmapped,none
+8bcb0411f8461aa9,FleetLink,2024-Q4,Active Carriers,7210.0,count,USD,symbol,high,"Active Carriers 7,210",FleetLink_Q4_2024.pdf,2026-08-18T12:39:33.325019+00:00,,unmapped,none
+d6a2f8165f1e4002,FleetLink,2024-Q4,Platform Revenue (recognized),9000000.0,currency,USD,symbol,high,Platform Revenue (recognized) 9.0M,FleetLink_Q4_2024.pdf,2026-08-18T12:39:33.325019+00:00,revenue,keyword,medium
+904bb91298b46474,FleetLink,2024-Q4,Contribution Margin / Shipment,2.1,currency,USD,symbol,high,Contribution Margin / Shipment $2.10,FleetLink_Q4_2024.pdf,2026-08-18T12:39:33.325019+00:00,,unmapped,none
+a78656878e8d94d2,FleetLink,2024-Q4,Marketing Spend as % of Revenue,0.18,currency,USD,symbol,high,Marketing Spend as % of Revenue 18%,FleetLink_Q4_2024.pdf,2026-08-18T12:39:33.325019+00:00,revenue,keyword,medium
+efa4a96231a925aa,FleetLink,2024-Q4,"Support Tickets / 1,000 Shipments",15.8,ratio,USD,symbol,high,"Support Tickets / 1,000 Shipments 15.8",FleetLink_Q4_2024.pdf,2026-08-18T12:39:33.325019+00:00,,unmapped,none
+e43c878e9d8a5301,LendBridge,2025-Q1,Interest Expense,-3200000.0,currency,USD,symbol,high,Interest Expense ($3.2M),LendBridge_Q1_2025.pdf,2026-08-18T12:39:33.374752+00:00,,unmapped,none
+e28ac9594d633e25,LendBridge,2025-Q1,Net Interest Margin,0.093,pct,USD,symbol,high,Net Interest Margin 9.3%,LendBridge_Q1_2025.pdf,2026-08-18T12:39:33.374752+00:00,,unmapped,none
+e1eee135e2ed3098,LendBridge,2025-Q1,Fee & Ancillary Income,1000000.0,currency,USD,symbol,high,Fee & Ancillary Income $1.0M,LendBridge_Q1_2025.pdf,2026-08-18T12:39:33.374752+00:00,,unmapped,none
+221f26b620bdd5c7,LendBridge,2025-Q1,Total Loan Book (gross),302000000.0,currency,USD,symbol,high,Total Loan Book (gross) $302M,LendBridge_Q1_2025.pdf,2026-08-18T12:39:33.374752+00:00,,unmapped,none
+9eaa859e04c8db06,LendBridge,2025-Q1,Active Borrowers,1380.0,count,USD,symbol,high,"Active Borrowers 1,380",LendBridge_Q1_2025.pdf,2026-08-18T12:39:33.374752+00:00,,unmapped,none
+62fa3bddef50ad51,LendBridge,2025-Q1,Credit Loss Rate (LTM),0.033,pct,USD,symbol,high,Credit Loss Rate (LTM) 3.3%,LendBridge_Q1_2025.pdf,2026-08-18T12:39:33.374752+00:00,,unmapped,none
+77976ce9eb6eb4fb,LendBridge,unknown,Services,114000000.0,currency,USD,symbol,low,Services $114M 11.8%,LendBridge_Q1_2025.pdf,2026-08-18T12:39:33.374752+00:00,,unmapped,none
+ef385c0794d19990,LendBridge,unknown,Manufacturing,78000000.0,currency,USD,symbol,low,Manufacturing $78M 11.4%,LendBridge_Q1_2025.pdf,2026-08-18T12:39:33.374752+00:00,,unmapped,none
+2821a186f6cf893b,LendBridge,unknown,Retail,53000000.0,currency,USD,symbol,low,Retail $53M 12.3%,LendBridge_Q1_2025.pdf,2026-08-18T12:39:33.374752+00:00,,unmapped,none
+d0b1d77c7e7ca707,LendBridge,unknown,Hospitality,37000000.0,currency,USD,symbol,low,Hospitality $37M 13.1%,LendBridge_Q1_2025.pdf,2026-08-18T12:39:33.374752+00:00,,unmapped,none
+a73ad600004872c6,LendBridge,unknown,Other,20000000.0,currency,USD,symbol,low,Other $20M 11.9%,LendBridge_Q1_2025.pdf,2026-08-18T12:39:33.374752+00:00,,unmapped,none
+68a122b662b1b3e7,LendBridge,2024-Q2,Interest Expense,-2900000.0,currency,USD,symbol,high,Interest Expense ($2.9M),LendBridge_Q2_2024.pdf,2026-08-18T12:39:33.424532+00:00,,unmapped,none
+58f0fb13bd6fc43d,LendBridge,2024-Q2,Net Interest Margin,0.086,pct,USD,symbol,high,Net Interest Margin 8.6%,LendBridge_Q2_2024.pdf,2026-08-18T12:39:33.424532+00:00,,unmapped,none
+7e89501b9b10ae8f,LendBridge,2024-Q2,Fee & Other Income,700000.0,currency,USD,symbol,high,Fee & Other Income $0.7M,LendBridge_Q2_2024.pdf,2026-08-18T12:39:33.424532+00:00,,unmapped,none
+3e267c8e5af293ba,LendBridge,2024-Q2,Pre-Provision Operating Margin,0.29,pct,USD,symbol,high,Pre-Provision Operating Margin 29%,LendBridge_Q2_2024.pdf,2026-08-18T12:39:33.424532+00:00,,unmapped,none
+34e496cd669d7385,LendBridge,2024-Q2,Total Loan Book (gross),258000000.0,currency,USD,symbol,high,Total Loan Book (gross) $258M,LendBridge_Q2_2024.pdf,2026-08-18T12:39:33.424532+00:00,,unmapped,none
+8609ffcea260a7ed,LendBridge,2024-Q2,Active Borrowers,1180.0,count,USD,symbol,high,"Active Borrowers 1,180",LendBridge_Q2_2024.pdf,2026-08-18T12:39:33.424532+00:00,,unmapped,none
+22a4e913475005f4,LendBridge,2024-Q2,Net Charge-off Rate (LTM),0.042,pct,USD,symbol,high,Net Charge-off Rate (LTM) 4.2%,LendBridge_Q2_2024.pdf,2026-08-18T12:39:33.424532+00:00,,unmapped,none
+7c651b447a9e194c,LendBridge,unknown,Services,95000000.0,currency,USD,symbol,low,Services $95M 37%,LendBridge_Q2_2024.pdf,2026-08-18T12:39:33.424532+00:00,,unmapped,none
+9681c6b21a629c94,LendBridge,unknown,Manufacturing,62000000.0,currency,USD,symbol,low,Manufacturing $62M 24%,LendBridge_Q2_2024.pdf,2026-08-18T12:39:33.424532+00:00,,unmapped,none
+68cab9e713d9fc14,LendBridge,unknown,Retail,48000000.0,currency,USD,symbol,low,Retail $48M 19%,LendBridge_Q2_2024.pdf,2026-08-18T12:39:33.424532+00:00,,unmapped,none
+0dc972ad5441358a,LendBridge,unknown,Hospitality,34000000.0,currency,USD,symbol,low,Hospitality $34M 13%,LendBridge_Q2_2024.pdf,2026-08-18T12:39:33.424532+00:00,,unmapped,none
+9c0500473cc420d1,LendBridge,unknown,Other,19000000.0,currency,USD,symbol,low,Other $19M 7%,LendBridge_Q2_2024.pdf,2026-08-18T12:39:33.424532+00:00,,unmapped,none
+b770189651caa16c,LendBridge,2025-Q2,Interest Expense,-3400000.0,currency,USD,symbol,high,Interest Expense ($3.4M),LendBridge_Q2_2025.pdf,2026-08-18T12:39:33.506987+00:00,,unmapped,none
+863f7e596478f31a,LendBridge,2025-Q2,Net Interest Margin,0.094,pct,USD,symbol,high,Net Interest Margin 9.4%,LendBridge_Q2_2025.pdf,2026-08-18T12:39:33.506987+00:00,,unmapped,none
+9fa18b7611336cbb,LendBridge,2025-Q2,Fee & Other Income,1100000.0,currency,USD,symbol,high,Fee & Other Income $1.1M,LendBridge_Q2_2025.pdf,2026-08-18T12:39:33.506987+00:00,,unmapped,none
+4d3ece1b60d97bde,LendBridge,2025-Q2,Pre-Provision Operating Margin,0.34,pct,USD,symbol,high,Pre-Provision Operating Margin 34%,LendBridge_Q2_2025.pdf,2026-08-18T12:39:33.506987+00:00,,unmapped,none
+3d9e91832760aeb5,LendBridge,2025-Q2,Total Loan Book (gross),316000000.0,currency,USD,symbol,high,Total Loan Book (gross) $316M,LendBridge_Q2_2025.pdf,2026-08-18T12:39:33.506987+00:00,,unmapped,none
+6235c0badf67b136,LendBridge,2025-Q2,Active Borrowers,1420.0,count,USD,symbol,high,"Active Borrowers 1,420",LendBridge_Q2_2025.pdf,2026-08-18T12:39:33.506987+00:00,,unmapped,none
+258291a2cc6ad681,LendBridge,2025-Q2,Net Charge-off Rate (LTM),0.031,pct,USD,symbol,high,Net Charge-off Rate (LTM) 3.1%,LendBridge_Q2_2025.pdf,2026-08-18T12:39:33.506987+00:00,,unmapped,none
+572301cff7193557,LendBridge,unknown,Services,120000000.0,currency,USD,symbol,low,Services $120M 38%,LendBridge_Q2_2025.pdf,2026-08-18T12:39:33.506987+00:00,,unmapped,none
+d615d5c102dc6aeb,LendBridge,unknown,Manufacturing,82000000.0,currency,USD,symbol,low,Manufacturing $82M 26%,LendBridge_Q2_2025.pdf,2026-08-18T12:39:33.506987+00:00,,unmapped,none
+22373d0154849971,LendBridge,unknown,Retail,54000000.0,currency,USD,symbol,low,Retail $54M 17%,LendBridge_Q2_2025.pdf,2026-08-18T12:39:33.506987+00:00,,unmapped,none
+23cefc9b563eff37,LendBridge,unknown,Hospitality,38000000.0,currency,USD,symbol,low,Hospitality $38M 12%,LendBridge_Q2_2025.pdf,2026-08-18T12:39:33.506987+00:00,,unmapped,none
+781e9cca5a0ef4b8,LendBridge,unknown,Other,22000000.0,currency,USD,symbol,low,Other $22M 7%,LendBridge_Q2_2025.pdf,2026-08-18T12:39:33.506987+00:00,,unmapped,none
+b530411690089e7f,LendBridge,2024-Q3,Interest Expense,-3000000.0,currency,USD,symbol,high,Interest Expense ($3.0M),LendBridge_Q3_2024.pdf,2026-08-18T12:39:33.565990+00:00,,unmapped,none
+bf5bef8b0d225e32,LendBridge,2024-Q3,Net Interest Margin,0.089,pct,USD,symbol,high,Net Interest Margin 8.9%,LendBridge_Q3_2024.pdf,2026-08-18T12:39:33.565990+00:00,,unmapped,none
+8f6976d3f33106a4,LendBridge,2024-Q3,Fee & Ancillary Income,800000.0,currency,USD,symbol,high,Fee & Ancillary Income $0.8M,LendBridge_Q3_2024.pdf,2026-08-18T12:39:33.565990+00:00,,unmapped,none
+ee2613fb2222d4e5,LendBridge,2024-Q3,Adjusted Operating Margin,0.31,pct,USD,symbol,high,Adjusted Operating Margin 31%,LendBridge_Q3_2024.pdf,2026-08-18T12:39:33.565990+00:00,,unmapped,none
+c28d138c5515cfe7,LendBridge,2024-Q3,Total Loan Book (gross),274000000.0,currency,USD,symbol,high,Total Loan Book (gross) $274M,LendBridge_Q3_2024.pdf,2026-08-18T12:39:33.565990+00:00,,unmapped,none
+6b3c9131c7fa4058,LendBridge,2024-Q3,Active Borrowers,1250.0,count,USD,symbol,high,"Active Borrowers 1,250",LendBridge_Q3_2024.pdf,2026-08-18T12:39:33.565990+00:00,,unmapped,none
+695a8b5305bd0c73,LendBridge,2024-Q3,Net Charge-off Rate (LTM),0.039,pct,USD,symbol,high,Net Charge-off Rate (LTM) 3.9%,LendBridge_Q3_2024.pdf,2026-08-18T12:39:33.565990+00:00,,unmapped,none
+fbad63d4e396596f,LendBridge,unknown,Services,101000000.0,currency,USD,symbol,low,Services $101M 37%,LendBridge_Q3_2024.pdf,2026-08-18T12:39:33.565990+00:00,,unmapped,none
+6bc1461c65a3bc93,LendBridge,unknown,Manufacturing,68000000.0,currency,USD,symbol,low,Manufacturing $68M 25%,LendBridge_Q3_2024.pdf,2026-08-18T12:39:33.565990+00:00,,unmapped,none
+cfec9132463a7ce6,LendBridge,unknown,Retail,50000000.0,currency,USD,symbol,low,Retail $50M 18%,LendBridge_Q3_2024.pdf,2026-08-18T12:39:33.565990+00:00,,unmapped,none
+abe9dad2a6d1c43f,LendBridge,unknown,Hospitality,36000000.0,currency,USD,symbol,low,Hospitality $36M 13%,LendBridge_Q3_2024.pdf,2026-08-18T12:39:33.565990+00:00,,unmapped,none
+01ef6d6bf5a3f8f8,LendBridge,unknown,Other,19000000.0,currency,USD,symbol,low,Other $19M 7%,LendBridge_Q3_2024.pdf,2026-08-18T12:39:33.565990+00:00,,unmapped,none
+ab0117be025af35e,LendBridge,2024-Q4,Interest Expense,-3100000.0,currency,USD,symbol,high,Interest Expense ($3.1M),LendBridge_Q4_2024.pdf,2026-08-18T12:39:33.623627+00:00,,unmapped,none
+5871329dec0b4544,LendBridge,2024-Q4,Net Interest Margin,0.091,pct,USD,symbol,high,Net Interest Margin 9.1%,LendBridge_Q4_2024.pdf,2026-08-18T12:39:33.623627+00:00,,unmapped,none
+838af725c8ec4e54,LendBridge,2024-Q4,Fee & Ancillary Income,900000.0,currency,USD,symbol,high,Fee & Ancillary Income $0.9M,LendBridge_Q4_2024.pdf,2026-08-18T12:39:33.623627+00:00,,unmapped,none
+4f51523f4125e477,LendBridge,2024-Q4,Total Loan Book (gross),291000000.0,currency,USD,symbol,high,Total Loan Book (gross) $291M,LendBridge_Q4_2024.pdf,2026-08-18T12:39:33.623627+00:00,,unmapped,none
+fab8abcd45203a3e,LendBridge,2024-Q4,Active Borrowers,1310.0,count,USD,symbol,high,"Active Borrowers 1,310",LendBridge_Q4_2024.pdf,2026-08-18T12:39:33.623627+00:00,,unmapped,none
+dc84e7ae3dd300ad,LendBridge,2024-Q4,Credit Loss Rate (LTM),0.036,pct,USD,symbol,high,Credit Loss Rate (LTM) 3.6%,LendBridge_Q4_2024.pdf,2026-08-18T12:39:33.623627+00:00,,unmapped,none
+31d19441795a3663,MediSight,2025-Q1,Contracted Annual Recurring Revenue,26100000.0,currency,,unknown,high,Contracted Annual Recurring Revenue 26.1M,MediSight_Q1_2025.pdf,2026-08-18T12:39:33.658943+00:00,revenue,keyword,medium
+bb01ce35a01adc64,MediSight,2025-Q1,ARR Growth (YoY),0.34,currency,,unknown,high,ARR Growth (YoY) 34%,MediSight_Q1_2025.pdf,2026-08-18T12:39:33.658943+00:00,arr,keyword,medium
+ad303136e9520b04,MediSight,2025-Q1,ARR from Existing Accounts,0.85,currency,,unknown,high,ARR from Existing Accounts 85%,MediSight_Q1_2025.pdf,2026-08-18T12:39:33.658943+00:00,arr,keyword,medium
+14d99c67705305b1,MediSight,2025-Q2,Contracted ARR (end of period),27900000.0,currency,,unknown,high,Contracted ARR (end of period) 27.9M,MediSight_Q2_2025.pdf,2026-08-18T12:39:33.706631+00:00,arr,keyword,medium
+bdfb54d98a34cee7,MediSight,2025-Q2,ARR Growth (YoY),0.31,currency,,unknown,high,ARR Growth (YoY) 31%,MediSight_Q2_2025.pdf,2026-08-18T12:39:33.706631+00:00,arr,keyword,medium
+223ec973b698ef7d,MediSight,2025-Q2,Expansion ARR as % of Total ARR,0.87,currency,,unknown,high,Expansion ARR as % of Total ARR 87%,MediSight_Q2_2025.pdf,2026-08-18T12:39:33.706631+00:00,arr,keyword,medium
+53b2dc1978210edb,MediSight,2024-Q4,Contracted ARR (end of period),24500000.0,currency,,unknown,high,Contracted ARR (end of period) 24.5M,MediSight_Q4_2024.pdf,2026-08-18T12:39:33.758340+00:00,arr,keyword,medium
+7f9e57495102ce54,MediSight,2024-Q4,ARR Growth (YoY),0.38,currency,,unknown,high,ARR Growth (YoY) 38%,MediSight_Q4_2024.pdf,2026-08-18T12:39:33.758340+00:00,arr,keyword,medium
+0f8b073cc6137140,MediSight,2024-Q4,ARR from Existing Accounts,0.82,currency,,unknown,high,ARR from Existing Accounts 82%,MediSight_Q4_2024.pdf,2026-08-18T12:39:33.758340+00:00,arr,keyword,medium
+7358e5cd8ba39f05,NovaCloud,2025-Q1,Recognized Revenue (USD),7900000.0,currency,USD,symbol,high,Recognized Revenue (USD) $7.9M,NovaCloud_Q1_2025.pdf,2026-08-18T12:39:33.804854+00:00,revenue,keyword,medium
+ef5897eeb6da8776,NovaCloud,2025-Q1,NRR (LTM),1.21,pct,USD,symbol,high,NRR (LTM) 121%,NovaCloud_Q1_2025.pdf,2026-08-18T12:39:33.804854+00:00,,unmapped,none
+dc55bd230b430609,NovaCloud,unknown,Qualified,33.0,count,USD,symbol,low,Qualified 33 $9.1M $3.8M,NovaCloud_Q1_2025.pdf,2026-08-18T12:39:33.804854+00:00,,unmapped,none
+dc220ea1ed68bfd0,NovaCloud,unknown,Proposal / Negotiation,17.0,ratio,USD,symbol,low,Proposal / Negotiation 17 $6.8M $3.4M,NovaCloud_Q1_2025.pdf,2026-08-18T12:39:33.804854+00:00,,unmapped,none
+80bc8d47ddc62cdf,NovaCloud,unknown,Verbal Commit,5.0,count,USD,symbol,low,Verbal Commit 5 $2.6M $1.9M,NovaCloud_Q1_2025.pdf,2026-08-18T12:39:33.804854+00:00,,unmapped,none
+57cbde2cff68d817,NovaCloud,2024-Q2,Total Billings (USD),5800000.0,currency,USD,symbol,high,Total Billings (USD) $5.8M,NovaCloud_Q2_2024.pdf,2026-08-18T12:39:33.912268+00:00,,unmapped,none
+f526a445c2e43b08,NovaCloud,2024-Q2,Logo Churn Rate (LTM),0.078,pct,USD,symbol,high,Logo Churn Rate (LTM) 7.8%,NovaCloud_Q2_2024.pdf,2026-08-18T12:39:33.912268+00:00,,unmapped,none
+bb3fc7c0a5ae1d11,NovaCloud,unknown,Qualified,28.0,count,USD,symbol,low,Qualified 28 $7.4M $3.1M,NovaCloud_Q2_2024.pdf,2026-08-18T12:39:33.912268+00:00,,unmapped,none
+042d1c006492b16d,NovaCloud,unknown,Proposal / Negotiation,14.0,ratio,USD,symbol,low,Proposal / Negotiation 14 $5.6M $2.8M,NovaCloud_Q2_2024.pdf,2026-08-18T12:39:33.912268+00:00,,unmapped,none
+4ec58d4e62515c8c,NovaCloud,unknown,Verbal Commit,4.0,count,USD,symbol,low,Verbal Commit 4 $2.1M $1.5M,NovaCloud_Q2_2024.pdf,2026-08-18T12:39:33.912268+00:00,,unmapped,none
+1cc20cd18e01e605,NovaCloud,2025-Q2,Recognized Revenue (USD),8400000.0,currency,USD,symbol,high,Recognized Revenue (USD) $8.4M,NovaCloud_Q2_2025.pdf,2026-08-18T12:39:33.963954+00:00,revenue,keyword,medium
+6fb27afd6e971981,NovaCloud,2025-Q2,ARR (End of Period),34200000.0,currency,USD,symbol,high,ARR (End of Period) $34.2M,NovaCloud_Q2_2025.pdf,2026-08-18T12:39:33.963954+00:00,arr,keyword,medium
+52b7581249c06166,NovaCloud,2025-Q2,Net Dollar Retention,1.23,pct,USD,symbol,high,Net Dollar Retention 123%,NovaCloud_Q2_2025.pdf,2026-08-18T12:39:33.963954+00:00,nrr,keyword,medium
+d8524f2fa3186528,NovaCloud,unknown,Qualified,36.0,count,USD,symbol,low,Qualified 36 $9.8M $4.2M,NovaCloud_Q2_2025.pdf,2026-08-18T12:39:33.963954+00:00,,unmapped,none
+5885f72e1ea23497,NovaCloud,unknown,Proposal / Negotiation,18.0,ratio,USD,symbol,low,Proposal / Negotiation 18 $7.1M $3.6M,NovaCloud_Q2_2025.pdf,2026-08-18T12:39:33.963954+00:00,,unmapped,none
+eeb0acca2eb385b0,NovaCloud,unknown,Verbal Commit,6.0,count,USD,symbol,low,Verbal Commit 6 $2.9M $2.0M,NovaCloud_Q2_2025.pdf,2026-08-18T12:39:33.963954+00:00,,unmapped,none
+dcb0059715dfc58d,NovaCloud,2024-Q3,Recognized Revenue (USD),6500000.0,currency,USD,symbol,high,Recognized Revenue (USD) $6.5M,NovaCloud_Q3_2024.pdf,2026-08-18T12:39:34.025402+00:00,revenue,keyword,medium
+f083c991c6267127,NovaCloud,2024-Q3,Logo Churn Rate (LTM),0.072,pct,USD,symbol,high,Logo Churn Rate (LTM) 7.2%,NovaCloud_Q3_2024.pdf,2026-08-18T12:39:34.025402+00:00,,unmapped,none
+7548b311099a079c,NovaCloud,2024-Q4,Net Revenue (USD),7200000.0,currency,USD,symbol,high,Net Revenue (USD) $7.2M,NovaCloud_Q4_2024.pdf,2026-08-18T12:39:34.093811+00:00,revenue,keyword,medium
+d27d662c45b098f6,NovaCloud,2024-Q4,Logo Churn Rate (LTM),0.065,pct,USD,symbol,high,Logo Churn Rate (LTM) 6.5%,NovaCloud_Q4_2024.pdf,2026-08-18T12:39:34.093811+00:00,,unmapped,none
+b5a4a576be1a54e6,PeopleFlow,2025-Q1,Net Pound Retention – NPR (LTM),1.17,pct,GBP,declared,high,Net Pound Retention – NPR (LTM) 117%,PeopleFlow_Q1_2025.pdf,2026-08-18T12:39:34.145625+00:00,nrr,keyword,medium
+c7a2dca31908a188,PeopleFlow,2025-Q1,Annual Logo Churn,0.043,pct,GBP,declared,high,Annual Logo Churn 4.3%,PeopleFlow_Q1_2025.pdf,2026-08-18T12:39:34.145625+00:00,,unmapped,none
+4ecd94b69bade567,PeopleFlow,2025-Q1,Active Subscriptions,395.0,count,GBP,declared,high,Active Subscriptions 395,PeopleFlow_Q1_2025.pdf,2026-08-18T12:39:34.145625+00:00,,unmapped,none
+2133343da6f9ea9e,PeopleFlow,2025-Q1,Avg. Seats per Customer,144.0,ratio,GBP,declared,high,Avg. Seats per Customer 144,PeopleFlow_Q1_2025.pdf,2026-08-18T12:39:34.145625+00:00,,unmapped,none
+a2cabe651b5ef6ff,PeopleFlow,2025-Q2,Annual Logo Churn,0.042,pct,GBP,declared,high,Annual Logo Churn 4.2%,PeopleFlow_Q2_2025.pdf,2026-08-18T12:39:34.191966+00:00,,unmapped,none
+374dd6bc67c93818,PeopleFlow,2025-Q2,Paying Customer Logos,412.0,count,GBP,declared,high,Paying Customer Logos 412,PeopleFlow_Q2_2025.pdf,2026-08-18T12:39:34.191966+00:00,,unmapped,none
+df89bb96fc8c0bdd,PeopleFlow,2025-Q2,Avg. Seats per Customer,146.0,ratio,GBP,declared,high,Avg. Seats per Customer 146,PeopleFlow_Q2_2025.pdf,2026-08-18T12:39:34.191966+00:00,,unmapped,none
+b2900aba086069b5,PeopleFlow,2024-Q4,Annual Logo Churn,0.045,pct,GBP,declared,high,Annual Logo Churn 4.5%,PeopleFlow_Q4_2024.pdf,2026-08-18T12:39:34.284152+00:00,,unmapped,none
+43e2c60f9ca60681,PeopleFlow,2024-Q4,Paying Customer Logos,379.0,count,GBP,declared,high,Paying Customer Logos 379,PeopleFlow_Q4_2024.pdf,2026-08-18T12:39:34.284152+00:00,,unmapped,none
+10ee71f94745dddb,PeopleFlow,2024-Q4,Avg. Seats per Customer,141.0,ratio,GBP,declared,high,Avg. Seats per Customer 141,PeopleFlow_Q4_2024.pdf,2026-08-18T12:39:34.284152+00:00,,unmapped,none
+10a3f814187492af,Portfolio,2025-Q2,Net Dollar Retention,1.23,pct,USD,symbol,high,Net Dollar Retention 123%,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,nrr,keyword,medium
+30054ad3cf9a8017,Portfolio,2025-Q2,YoY Revenue Growth,0.11,currency,USD,symbol,high,YoY Revenue Growth 11%,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,revenue,keyword,medium
+65536068839ed2e3,Portfolio,2025-Q2,Enterprise Logos (>$100k ARR),48.0,currency,USD,symbol,high,Enterprise Logos (>$100k ARR) 48,Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,arr,keyword,medium
+ff74b89ac7f72a98,Portfolio,2025-Q2,Monthly Cash Burn,-680000.0,currency,USD,symbol,high,Monthly Cash Burn ($0.68M),Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,,unmapped,none
+636d7cebfe7f0e30,Portfolio,2025-Q2,Paying Entities,1042.0,count,USD,symbol,high,"Paying Entities 1,042",Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,,unmapped,none
+6786d599689ef005,Portfolio,2025-Q2,Net Burn (monthly),-550000.0,currency,USD,symbol,high,Net Burn (monthly) ($0.55M),Portfolio_Snapshot_Q2_2025.pdf,2026-08-18T12:39:34.328125+00:00,,unmapped,none
+d57d6d194d0bd150,TalentVault,2025-Q2,Enterprise Accounts (>$100k ARR),48.0,currency,USD,symbol,high,Enterprise Accounts (>$100k ARR) 48 43,TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,arr,keyword,medium
+a5a1a41ae07957a2,TalentVault,2025-Q1,Enterprise Accounts (>$100k ARR),43.0,currency,USD,symbol,high,Enterprise Accounts (>$100k ARR) 48 43,TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,arr,keyword,medium
+b4626446f78436d3,TalentVault,2025-Q2,Total Paying Seats,6840.0,count,USD,symbol,high,"Total Paying Seats 6,840 6,210",TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,,unmapped,none
+681c96bdd549079b,TalentVault,2025-Q1,Total Paying Seats,6210.0,count,USD,symbol,high,"Total Paying Seats 6,840 6,210",TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,,unmapped,none
+0a37256f5ce0f020,TalentVault,unknown,Discovery / Qualified,41.0,ratio,USD,symbol,low,Discovery / Qualified 41 $11.2M $3.4M,TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,,unmapped,none
+c2ef1e42a721ef66,TalentVault,unknown,Active Evaluation,22.0,count,USD,symbol,low,Active Evaluation 22 $8.6M $4.3M,TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,,unmapped,none
+2e23da4d264c7165,TalentVault,unknown,Legal / Procurement,9.0,ratio,USD,symbol,low,Legal / Procurement 9 $4.1M $3.1M,TalentVault_Q2_2025.pdf,2026-08-18T12:39:34.391992+00:00,,unmapped,none
