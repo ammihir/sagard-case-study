@@ -2,5 +2,5 @@
 sagard_venv/
 __pycache__/
 extract2.ipynb
-output/bronze
-output/silver/silver_excluded.csv
+# output/bronze
+# output/silver/silver_excluded.csv
